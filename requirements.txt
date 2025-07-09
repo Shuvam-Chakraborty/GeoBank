@@ -1,0 +1,14 @@
+selenium 
+webdriver-manager 
+beautifulsoup4 
+pandas
+numpy
+seaborn
+plotly
+matplotlib
+geopy 
+tqdm
+scikit-learn
+scipy
+xgboost
+optuna

@@ -1,0 +1,6222 @@
+[
+  {
+    "index": 1,
+    "predicted_log_deposit": 28.326082229614258,
+    "explanation": [
+      {
+        "feature": "num__density_ratio > -0.05",
+        "weight": 7.388657616940801
+      },
+      {
+        "feature": "cat__state_Khuzestan Province <= 0.00",
+        "weight": 2.220788691794289
+      },
+      {
+        "feature": "cat__state_Paramaribo <= 0.00",
+        "weight": -2.1474436563227486
+      },
+      {
+        "feature": "cat__state_Mombasa County <= 0.00",
+        "weight": 1.7639093345128947
+      },
+      {
+        "feature": "cat__state_Western Province <= 0.00",
+        "weight": -1.6906406198746589
+      },
+      {
+        "feature": "cat__state_Plateau State <= 0.00",
+        "weight": -1.644421133377901
+      },
+      {
+        "feature": "num__branch_density_10km > 0.04",
+        "weight": 1.5770171112020572
+      },
+      {
+        "feature": "cat__state_Victoria <= 0.00",
+        "weight": -1.5546384797293513
+      },
+      {
+        "feature": "cat__state_Ratak Chain <= 0.00",
+        "weight": -1.382928360705622
+      },
+      {
+        "feature": "cat__state_Bagamati Province <= 0.00",
+        "weight": -1.3623262383447365
+      },
+      {
+        "feature": "cat__state_Lower Saxony <= 0.00",
+        "weight": 1.3339975598835498
+      },
+      {
+        "feature": "cat__state_Capital District <= 0.00",
+        "weight": -1.2986343078616904
+      },
+      {
+        "feature": "cat__state_Hubei <= 0.00",
+        "weight": 1.290805083542732
+      },
+      {
+        "feature": "cat__state_Tel-Aviv District <= 0.00",
+        "weight": -1.2895437686788007
+      },
+      {
+        "feature": "cat__state_Connecticut <= 0.00",
+        "weight": -1.2544213260784676
+      },
+      {
+        "feature": "cat__state_Abu Dhabi Emirate <= 0.00",
+        "weight": 1.2305537133760331
+      },
+      {
+        "feature": "cat__state_Khyber Pakhtunkhwa <= 0.00",
+        "weight": -1.2287549376351632
+      },
+      {
+        "feature": "cat__state_Prague <= 0.00",
+        "weight": 1.2057214838464374
+      },
+      {
+        "feature": "cat__state_Ternopil Oblast <= 0.00",
+        "weight": -1.1923020543106548
+      },
+      {
+        "feature": "cat__state_Subcarpathian Voivodeship <= 0.00",
+        "weight": -1.1685381003767203
+      },
+      {
+        "feature": "cat__state_New Brunswick <= 0.00",
+        "weight": -1.1500316151593126
+      },
+      {
+        "feature": "cat__state_Panam\u00e1 Province <= 0.00",
+        "weight": -1.1411614830717502
+      },
+      {
+        "feature": "cat__state_Andhra Pradesh <= 0.00",
+        "weight": -1.1154423682042467
+      },
+      {
+        "feature": "cat__state_Gujarat <= 0.00",
+        "weight": -1.0873933095120003
+      },
+      {
+        "feature": "cat__state_Itap\u00faa <= 0.00",
+        "weight": 1.0612641049319789
+      },
+      {
+        "feature": "cat__state_Central Region <= 0.00",
+        "weight": 1.002497502377111
+      },
+      {
+        "feature": "cat__state_Makkah Region <= 0.00",
+        "weight": -0.9989222264280486
+      },
+      {
+        "feature": "cat__state_Alberta <= 0.00",
+        "weight": 0.9788751752733461
+      },
+      {
+        "feature": "cat__state_Oyo State <= 0.00",
+        "weight": 0.9684736150717844
+      },
+      {
+        "feature": "cat__state_Rhode Island <= 0.00",
+        "weight": 0.9470652216858215
+      },
+      {
+        "feature": "cat__state_Cyprus <= 0.00",
+        "weight": 0.9307914307390445
+      },
+      {
+        "feature": "cat__state_Kerala <= 0.00",
+        "weight": 0.8720239446665238
+      },
+      {
+        "feature": "cat__state_Northern Ireland <= 0.00",
+        "weight": -0.8560270144727443
+      },
+      {
+        "feature": "cat__state_Medina Province <= 0.00",
+        "weight": -0.8247701904439986
+      },
+      {
+        "feature": "cat__state_Alaska <= 0.00",
+        "weight": 0.8056277180662146
+      },
+      {
+        "feature": "cat__state_Lviv Oblast <= 0.00",
+        "weight": -0.7955769587417715
+      },
+      {
+        "feature": "cat__state_Central Province <= 0.00",
+        "weight": -0.7823289968780406
+      },
+      {
+        "feature": "cat__state_Central Equatoria <= 0.00",
+        "weight": -0.7766954608219154
+      },
+      {
+        "feature": "cat__state_Nova Scotia <= 0.00",
+        "weight": -0.7740628948642898
+      },
+      {
+        "feature": "cat__state_Nevada <= 0.00",
+        "weight": 0.7469534350112117
+      },
+      {
+        "feature": "cat__state_Auckland <= 0.00",
+        "weight": 0.7424592599287999
+      },
+      {
+        "feature": "cat__state_Queensland <= 0.00",
+        "weight": 0.736391777425006
+      },
+      {
+        "feature": "cat__state_Aswan <= 0.00",
+        "weight": -0.7095613397634497
+      },
+      {
+        "feature": "cat__state_Rio de Janeiro <= 0.00",
+        "weight": -0.7056834410802376
+      },
+      {
+        "feature": "cat__state_Maryland <= 0.00",
+        "weight": -0.7045678286827672
+      },
+      {
+        "feature": "cat__state_Miranda State <= 0.00",
+        "weight": -0.6925876007606125
+      },
+      {
+        "feature": "cat__state_South Dakota <= 0.00",
+        "weight": 0.6872474508820618
+      },
+      {
+        "feature": "cat__state_Saskatchewan <= 0.00",
+        "weight": -0.6666690498443157
+      },
+      {
+        "feature": "cat__state_Stann Creek District <= 0.00",
+        "weight": -0.6523910467356203
+      },
+      {
+        "feature": "cat__state_Lambayeque <= 0.00",
+        "weight": 0.6399710228914718
+      },
+      {
+        "feature": "cat__state_Western Region <= 0.00",
+        "weight": 0.6280773638063593
+      },
+      {
+        "feature": "cat__state_Par\u00e1 <= 0.00",
+        "weight": -0.5930117645316348
+      },
+      {
+        "feature": "cat__state_Dhaka Division <= 0.00",
+        "weight": -0.5909645233956952
+      },
+      {
+        "feature": "cat__state_Koshi Province <= 0.00",
+        "weight": -0.5872304244615978
+      },
+      {
+        "feature": "cat__state_British Columbia <= 0.00",
+        "weight": 0.5560688491381999
+      },
+      {
+        "feature": "cat__state_Massachusetts <= 0.00",
+        "weight": 0.5503130778513862
+      },
+      {
+        "feature": "cat__state_Wales <= 0.00",
+        "weight": -0.545715095585773
+      },
+      {
+        "feature": "cat__state_Blantyre <= 0.00",
+        "weight": 0.5386756761098985
+      },
+      {
+        "feature": "cat__state_Wyoming <= 0.00",
+        "weight": -0.5381858320478695
+      },
+      {
+        "feature": "cat__state_Karnataka <= 0.00",
+        "weight": 0.5026640098397895
+      },
+      {
+        "feature": "cat__state_Hawaii <= 0.00",
+        "weight": 0.49446130002499555
+      },
+      {
+        "feature": "cat__state_England > 0.00",
+        "weight": -0.45867144941249227
+      },
+      {
+        "feature": "cat__state_Louisiana <= 0.00",
+        "weight": -0.45622700386976445
+      },
+      {
+        "feature": "cat__state_Saint Petersburg <= 0.00",
+        "weight": -0.45320308065133735
+      },
+      {
+        "feature": "cat__state_Pridnestrovie <= 0.00",
+        "weight": -0.4328928851703197
+      },
+      {
+        "feature": "cat__state_Alabama <= 0.00",
+        "weight": 0.4319768681327901
+      },
+      {
+        "feature": "cat__state_Northern Region <= 0.00",
+        "weight": 0.41524990445922527
+      },
+      {
+        "feature": "cat__state_Washington <= 0.00",
+        "weight": -0.4151672179205295
+      },
+      {
+        "feature": "cat__state_West Virginia <= 0.00",
+        "weight": -0.40753973315532027
+      },
+      {
+        "feature": "cat__state_Greater Accra Region <= 0.00",
+        "weight": -0.3987296303652645
+      },
+      {
+        "feature": "-1.01 < num__log_nearest_distance <= -0.23",
+        "weight": 0.39774602102161005
+      },
+      {
+        "feature": "cat__state_Hong Kong <= 0.00",
+        "weight": -0.3816458262134422
+      },
+      {
+        "feature": "cat__state_Bulacan <= 0.00",
+        "weight": 0.370051945720147
+      },
+      {
+        "feature": "cat__state_Kansas <= 0.00",
+        "weight": -0.36718842329213974
+      },
+      {
+        "feature": "cat__state_Florida <= 0.00",
+        "weight": -0.36210495937524795
+      },
+      {
+        "feature": "cat__state_Scotland <= 0.00",
+        "weight": 0.34813638801884594
+      },
+      {
+        "feature": "cat__state_Mississippi <= 0.00",
+        "weight": -0.3410925853981045
+      },
+      {
+        "feature": "cat__state_Kuala Lumpur <= 0.00",
+        "weight": 0.33525771282097155
+      },
+      {
+        "feature": "cat__state_Masovian Voivodeship <= 0.00",
+        "weight": -0.3331672086154292
+      },
+      {
+        "feature": "cat__state_Dodoma Region <= 0.00",
+        "weight": -0.331760034167489
+      },
+      {
+        "feature": "cat__state_Tamil Nadu <= 0.00",
+        "weight": -0.32742044710677176
+      },
+      {
+        "feature": "cat__state_Vermont <= 0.00",
+        "weight": -0.31446972050352423
+      },
+      {
+        "feature": "cat__state_Pennsylvania <= 0.00",
+        "weight": 0.3059520726246743
+      },
+      {
+        "feature": "cat__state_Mexico City <= 0.00",
+        "weight": 0.2973383257022963
+      },
+      {
+        "feature": "cat__state_nan <= 0.00",
+        "weight": 0.29429726909685033
+      },
+      {
+        "feature": "cat__state_New Mexico <= 0.00",
+        "weight": 0.2845723639466776
+      },
+      {
+        "feature": "cat__state_Prince Edward Island <= 0.00",
+        "weight": -0.2696075571654552
+      },
+      {
+        "feature": "cat__state_New South Wales <= 0.00",
+        "weight": -0.2665683283304776
+      },
+      {
+        "feature": "cat__state_Northern Province <= 0.00",
+        "weight": -0.24915712987947103
+      },
+      {
+        "feature": "cat__state_Lumbini Province <= 0.00",
+        "weight": 0.24228157319993107
+      },
+      {
+        "feature": "cat__state_Puerto Rico <= 0.00",
+        "weight": -0.24125257839311265
+      },
+      {
+        "feature": "cat__state_Wisconsin <= 0.00",
+        "weight": 0.20830717402719887
+      },
+      {
+        "feature": "cat__state_Indiana <= 0.00",
+        "weight": -0.20795852589207908
+      },
+      {
+        "feature": "cat__state_Estuaire Province <= 0.00",
+        "weight": 0.20777947167159566
+      },
+      {
+        "feature": "cat__state_Meru County <= 0.00",
+        "weight": 0.19600188176978064
+      },
+      {
+        "feature": "cat__state_New Jersey <= 0.00",
+        "weight": 0.19560108155710462
+      },
+      {
+        "feature": "cat__state_New Hampshire <= 0.00",
+        "weight": 0.1950004989230697
+      },
+      {
+        "feature": "cat__state_Nairobi County <= 0.00",
+        "weight": -0.19009775594092745
+      },
+      {
+        "feature": "cat__state_Georgia <= 0.00",
+        "weight": -0.18495474613557317
+      },
+      {
+        "feature": "cat__state_South Australia <= 0.00",
+        "weight": -0.18272059936235416
+      },
+      {
+        "feature": "cat__state_Kinshasa <= 0.00",
+        "weight": -0.17971182597161908
+      },
+      {
+        "feature": "cat__state_North Dakota <= 0.00",
+        "weight": -0.17803427364665034
+      },
+      {
+        "feature": "cat__state_Kogi State <= 0.00",
+        "weight": -0.17085989285833048
+      },
+      {
+        "feature": "cat__state_Maine <= 0.00",
+        "weight": 0.16357665226470652
+      },
+      {
+        "feature": "cat__state_Colorado <= 0.00",
+        "weight": -0.15848040071134195
+      },
+      {
+        "feature": "cat__state_Chelyabinsk Oblast <= 0.00",
+        "weight": 0.15763643851718231
+      },
+      {
+        "feature": "cat__state_Mwanza Region <= 0.00",
+        "weight": -0.157209418698838
+      },
+      {
+        "feature": "cat__state_Moscow <= 0.00",
+        "weight": -0.1536175886873258
+      },
+      {
+        "feature": "cat__state_Nebraska <= 0.00",
+        "weight": -0.153442530898768
+      },
+      {
+        "feature": "cat__state_Virginia <= 0.00",
+        "weight": 0.14318359234485267
+      },
+      {
+        "feature": "cat__state_Oklahoma <= 0.00",
+        "weight": -0.13537575040719976
+      },
+      {
+        "feature": "cat__state_Oregon <= 0.00",
+        "weight": 0.13451735879860396
+      },
+      {
+        "feature": "cat__state_Ontario <= 0.00",
+        "weight": -0.13000691257220676
+      },
+      {
+        "feature": "cat__state_Missouri <= 0.00",
+        "weight": -0.12354889457728868
+      },
+      {
+        "feature": "num__longitude > -0.03",
+        "weight": -0.11261715267885355
+      },
+      {
+        "feature": "cat__state_Delhi <= 0.00",
+        "weight": 0.11230720122945147
+      },
+      {
+        "feature": "cat__state_Kentucky <= 0.00",
+        "weight": -0.11092015813796458
+      },
+      {
+        "feature": "cat__state_Michigan <= 0.00",
+        "weight": 0.10902811928200248
+      },
+      {
+        "feature": "cat__state_Delaware <= 0.00",
+        "weight": -0.10833378232969884
+      },
+      {
+        "feature": "cat__state_KwaZulu-Natal <= 0.00",
+        "weight": 0.10719648289698921
+      },
+      {
+        "feature": "cat__state_Tennessee <= 0.00",
+        "weight": -0.10437150247661045
+      },
+      {
+        "feature": "cat__state_Minnesota <= 0.00",
+        "weight": -0.09260591297398875
+      },
+      {
+        "feature": "cat__state_Dakar Region <= 0.00",
+        "weight": 0.09127078534225609
+      },
+      {
+        "feature": "cat__state_Newfoundland and Labrador <= 0.00",
+        "weight": -0.08432574613775135
+      },
+      {
+        "feature": "cat__state_Cayo District <= 0.00",
+        "weight": 0.08399880298779833
+      },
+      {
+        "feature": "cat__state_Shandong <= 0.00",
+        "weight": -0.07694664582732993
+      },
+      {
+        "feature": "cat__state_Arkansas <= 0.00",
+        "weight": -0.07679888398363513
+      },
+      {
+        "feature": "num__latitude > 0.48",
+        "weight": -0.07155623672024619
+      },
+      {
+        "feature": "cat__state_Telangana <= 0.00",
+        "weight": -0.06914130456012428
+      },
+      {
+        "feature": "cat__state_Idaho <= 0.00",
+        "weight": 0.06911172625311827
+      },
+      {
+        "feature": "cat__state_Montana <= 0.00",
+        "weight": -0.06809247062710774
+      },
+      {
+        "feature": "cat__state_Utah <= 0.00",
+        "weight": -0.06666443021397679
+      },
+      {
+        "feature": "cat__state_Arizona <= 0.00",
+        "weight": 0.06364892491790422
+      },
+      {
+        "feature": "cat__state_New York <= 0.00",
+        "weight": 0.060808870952326434
+      },
+      {
+        "feature": "cat__state_South Carolina <= 0.00",
+        "weight": 0.060141184027810414
+      },
+      {
+        "feature": "cat__state_California <= 0.00",
+        "weight": -0.049626813308706996
+      },
+      {
+        "feature": "cat__state_Bihar <= 0.00",
+        "weight": 0.04579571737732641
+      },
+      {
+        "feature": "cat__state_Iowa <= 0.00",
+        "weight": 0.04532887364689808
+      },
+      {
+        "feature": "cat__state_Texas <= 0.00",
+        "weight": 0.03294817521125352
+      },
+      {
+        "feature": "cat__state_Illinois <= 0.00",
+        "weight": -0.030472809783539164
+      },
+      {
+        "feature": "cat__state_Karaganda Region <= 0.00",
+        "weight": 0.026143471129042053
+      },
+      {
+        "feature": "cat__state_Ohio <= 0.00",
+        "weight": -0.022721678140108018
+      },
+      {
+        "feature": "num__lat_lon_interaction > 0.08",
+        "weight": 0.019210046611663895
+      },
+      {
+        "feature": "cat__state_District of Columbia <= 0.00",
+        "weight": -0.017722997155414918
+      },
+      {
+        "feature": "cat__state_Tripoli <= 0.00",
+        "weight": -0.010425827839383374
+      },
+      {
+        "feature": "cat__state_North Carolina <= 0.00",
+        "weight": -0.009837335735863968
+      },
+      {
+        "feature": "cat__state_Limburg <= 0.00",
+        "weight": 0.0
+      },
+      {
+        "feature": "cat__state_Tunis <= 0.00",
+        "weight": 0.0
+      },
+      {
+        "feature": "cat__state_United States Virgin Islands <= 0.00",
+        "weight": 0.0
+      },
+      {
+        "feature": "cat__state_Bavaria <= 0.00",
+        "weight": 0.0
+      },
+      {
+        "feature": "cat__state_Nueva Ecija <= 0.00",
+        "weight": 0.0
+      },
+      {
+        "feature": "cat__state_Al-Najaf Governorate <= 0.00",
+        "weight": 0.0
+      },
+      {
+        "feature": "cat__state_Shanghai <= 0.00",
+        "weight": 0.0
+      },
+      {
+        "feature": "cat__state_Zomba <= 0.00",
+        "weight": 0.0
+      }
+    ]
+  },
+  {
+    "index": 0,
+    "predicted_log_deposit": 28.00537872314453,
+    "explanation": [
+      {
+        "feature": "num__density_ratio > -0.05",
+        "weight": 7.453686943231008
+      },
+      {
+        "feature": "cat__state_Rio de Janeiro <= 0.00",
+        "weight": 3.007990679780072
+      },
+      {
+        "feature": "cat__state_Paramaribo <= 0.00",
+        "weight": 2.8379559419299096
+      },
+      {
+        "feature": "cat__state_Mexico City <= 0.00",
+        "weight": 2.6966656788379697
+      },
+      {
+        "feature": "cat__state_Limburg <= 0.00",
+        "weight": -2.5182926517231854
+      },
+      {
+        "feature": "cat__state_Miranda State <= 0.00",
+        "weight": -2.357321253276329
+      },
+      {
+        "feature": "cat__state_Nova Scotia <= 0.00",
+        "weight": 1.9850160139189144
+      },
+      {
+        "feature": "cat__state_Prague <= 0.00",
+        "weight": -1.796001383027173
+      },
+      {
+        "feature": "cat__state_United States Virgin Islands <= 0.00",
+        "weight": -1.7018179747525224
+      },
+      {
+        "feature": "cat__state_Stann Creek District <= 0.00",
+        "weight": -1.5442017168024098
+      },
+      {
+        "feature": "cat__state_Capital District <= 0.00",
+        "weight": 1.4627108247223182
+      },
+      {
+        "feature": "cat__state_Andhra Pradesh <= 0.00",
+        "weight": -1.4607935969382573
+      },
+      {
+        "feature": "cat__state_Rhode Island <= 0.00",
+        "weight": 1.428840152554915
+      },
+      {
+        "feature": "cat__state_Plateau State <= 0.00",
+        "weight": 1.3954711023690358
+      },
+      {
+        "feature": "cat__state_Dodoma Region <= 0.00",
+        "weight": 1.2916064118792288
+      },
+      {
+        "feature": "cat__state_KwaZulu-Natal <= 0.00",
+        "weight": -1.278944790294892
+      },
+      {
+        "feature": "cat__state_Zomba <= 0.00",
+        "weight": 1.2464462605905835
+      },
+      {
+        "feature": "cat__state_Mwanza Region <= 0.00",
+        "weight": -1.2340123311060054
+      },
+      {
+        "feature": "cat__state_Delaware <= 0.00",
+        "weight": 1.1927297270496144
+      },
+      {
+        "feature": "cat__state_Telangana <= 0.00",
+        "weight": -1.192721888522973
+      },
+      {
+        "feature": "cat__state_Western Region <= 0.00",
+        "weight": 1.1873292388537018
+      },
+      {
+        "feature": "cat__state_Utah <= 0.00",
+        "weight": 1.1779814000740054
+      },
+      {
+        "feature": "cat__state_Northern Province <= 0.00",
+        "weight": 1.1530768073687765
+      },
+      {
+        "feature": "cat__state_South Dakota <= 0.00",
+        "weight": 1.1484501531904652
+      },
+      {
+        "feature": "cat__state_Khyber Pakhtunkhwa <= 0.00",
+        "weight": -1.1220736123815982
+      },
+      {
+        "feature": "cat__state_Chelyabinsk Oblast <= 0.00",
+        "weight": 1.1177819704764402
+      },
+      {
+        "feature": "cat__state_South Australia <= 0.00",
+        "weight": -1.0897671476366226
+      },
+      {
+        "feature": "cat__state_Prince Edward Island <= 0.00",
+        "weight": -1.0697732584867166
+      },
+      {
+        "feature": "cat__state_Oregon <= 0.00",
+        "weight": 1.0420032664734373
+      },
+      {
+        "feature": "cat__state_Tel-Aviv District <= 0.00",
+        "weight": 0.9972461492477562
+      },
+      {
+        "feature": "cat__state_Central Province <= 0.00",
+        "weight": -0.9637514489383646
+      },
+      {
+        "feature": "cat__state_Medina Province <= 0.00",
+        "weight": 0.9419057764988521
+      },
+      {
+        "feature": "cat__state_Tripoli <= 0.00",
+        "weight": -0.9254593831553308
+      },
+      {
+        "feature": "cat__state_Bavaria <= 0.00",
+        "weight": -0.8967864468096464
+      },
+      {
+        "feature": "cat__state_Central Region <= 0.00",
+        "weight": -0.8900839056475023
+      },
+      {
+        "feature": "cat__state_Meru County <= 0.00",
+        "weight": 0.8726379023873858
+      },
+      {
+        "feature": "cat__state_Lumbini Province <= 0.00",
+        "weight": 0.8544131809178098
+      },
+      {
+        "feature": "cat__state_Maryland <= 0.00",
+        "weight": 0.8163652413185815
+      },
+      {
+        "feature": "cat__state_Lviv Oblast <= 0.00",
+        "weight": -0.8013456100968464
+      },
+      {
+        "feature": "cat__state_Cyprus <= 0.00",
+        "weight": -0.766850029675984
+      },
+      {
+        "feature": "cat__state_Alaska <= 0.00",
+        "weight": -0.7384330571524774
+      },
+      {
+        "feature": "cat__state_Nairobi County <= 0.00",
+        "weight": -0.7204855810071303
+      },
+      {
+        "feature": "cat__state_North Carolina <= 0.00",
+        "weight": -0.7171018133882199
+      },
+      {
+        "feature": "cat__state_Bihar <= 0.00",
+        "weight": 0.7163087445184657
+      },
+      {
+        "feature": "cat__state_Northern Region <= 0.00",
+        "weight": 0.70646626805507
+      },
+      {
+        "feature": "cat__state_Pridnestrovie <= 0.00",
+        "weight": 0.6958179976093599
+      },
+      {
+        "feature": "cat__state_Shandong <= 0.00",
+        "weight": -0.65397607897785
+      },
+      {
+        "feature": "cat__state_Nebraska <= 0.00",
+        "weight": -0.6489332738100834
+      },
+      {
+        "feature": "cat__state_Connecticut <= 0.00",
+        "weight": 0.6473691084892079
+      },
+      {
+        "feature": "cat__state_Western Province <= 0.00",
+        "weight": -0.6246339933391466
+      },
+      {
+        "feature": "cat__state_Subcarpathian Voivodeship <= 0.00",
+        "weight": -0.6235738856018483
+      },
+      {
+        "feature": "-0.62 < num__branch_density_10km <= -0.49",
+        "weight": -0.6157180436418349
+      },
+      {
+        "feature": "cat__state_Auckland <= 0.00",
+        "weight": 0.613328319982819
+      },
+      {
+        "feature": "cat__state_New Mexico <= 0.00",
+        "weight": 0.611800427541891
+      },
+      {
+        "feature": "cat__state_Tamil Nadu <= 0.00",
+        "weight": -0.5861641431692541
+      },
+      {
+        "feature": "cat__state_Moscow <= 0.00",
+        "weight": -0.5741227536370935
+      },
+      {
+        "feature": "cat__state_Kerala <= 0.00",
+        "weight": -0.5522308719309854
+      },
+      {
+        "feature": "cat__state_Tunis <= 0.00",
+        "weight": 0.5479765841495055
+      },
+      {
+        "feature": "cat__state_Greater Accra Region <= 0.00",
+        "weight": -0.5437041793318368
+      },
+      {
+        "feature": "cat__state_Colorado <= 0.00",
+        "weight": 0.5250542583631247
+      },
+      {
+        "feature": "cat__state_Cayo District <= 0.00",
+        "weight": 0.5185830987393697
+      },
+      {
+        "feature": "cat__state_Bagamati Province <= 0.00",
+        "weight": 0.5071232478076186
+      },
+      {
+        "feature": "cat__state_Central Equatoria <= 0.00",
+        "weight": -0.4973183046687156
+      },
+      {
+        "feature": "cat__state_Saint Petersburg <= 0.00",
+        "weight": -0.49730291788692027
+      },
+      {
+        "feature": "cat__state_Maine <= 0.00",
+        "weight": -0.4756385375692787
+      },
+      {
+        "feature": "cat__state_Tennessee <= 0.00",
+        "weight": 0.47431855791228167
+      },
+      {
+        "feature": "cat__state_Aswan <= 0.00",
+        "weight": 0.46646413944839127
+      },
+      {
+        "feature": "cat__state_Oyo State <= 0.00",
+        "weight": 0.4538957708121872
+      },
+      {
+        "feature": "cat__state_British Columbia <= 0.00",
+        "weight": 0.4411128931490615
+      },
+      {
+        "feature": "cat__state_Nevada <= 0.00",
+        "weight": 0.4403147155439152
+      },
+      {
+        "feature": "cat__state_Saskatchewan <= 0.00",
+        "weight": -0.43970044512573986
+      },
+      {
+        "feature": "cat__state_Northern Ireland <= 0.00",
+        "weight": -0.4320181384188961
+      },
+      {
+        "feature": "-1.01 < num__log_nearest_distance <= -0.23",
+        "weight": 0.3888057123322641
+      },
+      {
+        "feature": "cat__state_New Hampshire <= 0.00",
+        "weight": -0.38776192825445416
+      },
+      {
+        "feature": "cat__state_Newfoundland and Labrador <= 0.00",
+        "weight": -0.38056371196158684
+      },
+      {
+        "feature": "cat__state_West Virginia <= 0.00",
+        "weight": 0.37389505962973585
+      },
+      {
+        "feature": "cat__state_Blantyre <= 0.00",
+        "weight": 0.36790822085865454
+      },
+      {
+        "feature": "cat__state_Kogi State <= 0.00",
+        "weight": -0.3530371025409008
+      },
+      {
+        "feature": "cat__state_North Dakota <= 0.00",
+        "weight": 0.3455696149138304
+      },
+      {
+        "feature": "cat__state_Dhaka Division <= 0.00",
+        "weight": 0.3370657652897069
+      },
+      {
+        "feature": "cat__state_Abu Dhabi Emirate <= 0.00",
+        "weight": 0.3332193432636418
+      },
+      {
+        "feature": "cat__state_Puerto Rico <= 0.00",
+        "weight": -0.33147421186540676
+      },
+      {
+        "feature": "cat__state_Mississippi <= 0.00",
+        "weight": 0.32284588679961956
+      },
+      {
+        "feature": "cat__state_Hong Kong <= 0.00",
+        "weight": 0.2882999392194778
+      },
+      {
+        "feature": "cat__state_nan <= 0.00",
+        "weight": -0.2872396113360968
+      },
+      {
+        "feature": "cat__state_Vermont <= 0.00",
+        "weight": -0.28684794076970066
+      },
+      {
+        "feature": "cat__state_Ontario <= 0.00",
+        "weight": 0.2866136000118829
+      },
+      {
+        "feature": "cat__state_Nueva Ecija <= 0.00",
+        "weight": -0.27905985288762997
+      },
+      {
+        "feature": "cat__state_Pennsylvania <= 0.00",
+        "weight": -0.27049417877143295
+      },
+      {
+        "feature": "cat__state_Washington <= 0.00",
+        "weight": 0.26572084148554476
+      },
+      {
+        "feature": "cat__state_Wisconsin <= 0.00",
+        "weight": 0.25457631255480934
+      },
+      {
+        "feature": "cat__state_Estuaire Province <= 0.00",
+        "weight": 0.2511238374979891
+      },
+      {
+        "feature": "cat__state_Delhi <= 0.00",
+        "weight": 0.25080449693998963
+      },
+      {
+        "feature": "cat__state_Virginia <= 0.00",
+        "weight": -0.24084205773251618
+      },
+      {
+        "feature": "cat__state_Minnesota <= 0.00",
+        "weight": 0.23065352920852866
+      },
+      {
+        "feature": "cat__state_Wyoming <= 0.00",
+        "weight": 0.23003693309259043
+      },
+      {
+        "feature": "cat__state_Scotland <= 0.00",
+        "weight": 0.22743726074747345
+      },
+      {
+        "feature": "cat__state_Missouri <= 0.00",
+        "weight": -0.22716401115117682
+      },
+      {
+        "feature": "cat__state_South Carolina <= 0.00",
+        "weight": 0.22244827447397367
+      },
+      {
+        "feature": "cat__state_Alberta <= 0.00",
+        "weight": -0.22113729457990608
+      },
+      {
+        "feature": "cat__state_Kansas <= 0.00",
+        "weight": 0.21395123739416186
+      },
+      {
+        "feature": "cat__state_Hawaii <= 0.00",
+        "weight": -0.2088901028693457
+      },
+      {
+        "feature": "cat__state_Michigan <= 0.00",
+        "weight": 0.20590240197712084
+      },
+      {
+        "feature": "cat__state_Koshi Province <= 0.00",
+        "weight": -0.19818743927321844
+      },
+      {
+        "feature": "cat__state_Indiana <= 0.00",
+        "weight": -0.18976701280384423
+      },
+      {
+        "feature": "cat__state_Florida <= 0.00",
+        "weight": 0.1848952285787128
+      },
+      {
+        "feature": "cat__state_Karnataka <= 0.00",
+        "weight": -0.1818178433822277
+      },
+      {
+        "feature": "cat__state_Ratak Chain <= 0.00",
+        "weight": -0.17855733432414636
+      },
+      {
+        "feature": "cat__state_Ohio <= 0.00",
+        "weight": 0.17838666093152664
+      },
+      {
+        "feature": "cat__state_Wales <= 0.00",
+        "weight": -0.1756569657920682
+      },
+      {
+        "feature": "cat__state_District of Columbia <= 0.00",
+        "weight": 0.1727413719577645
+      },
+      {
+        "feature": "cat__state_California > 0.00",
+        "weight": -0.1644120295016742
+      },
+      {
+        "feature": "cat__state_Masovian Voivodeship <= 0.00",
+        "weight": -0.1542077330570645
+      },
+      {
+        "feature": "cat__state_Arkansas <= 0.00",
+        "weight": -0.15204931661952892
+      },
+      {
+        "feature": "cat__state_Kentucky <= 0.00",
+        "weight": 0.1506711509691654
+      },
+      {
+        "feature": "cat__state_Oklahoma <= 0.00",
+        "weight": -0.1378816774346476
+      },
+      {
+        "feature": "cat__state_Georgia <= 0.00",
+        "weight": -0.12333486387432518
+      },
+      {
+        "feature": "cat__state_Illinois <= 0.00",
+        "weight": -0.12074957609459118
+      },
+      {
+        "feature": "cat__state_Montana <= 0.00",
+        "weight": 0.11262336711980739
+      },
+      {
+        "feature": "cat__state_Hubei <= 0.00",
+        "weight": -0.10937773747970651
+      },
+      {
+        "feature": "cat__state_Bulacan <= 0.00",
+        "weight": -0.09945857129369368
+      },
+      {
+        "feature": "cat__state_Idaho <= 0.00",
+        "weight": 0.09162348830688319
+      },
+      {
+        "feature": "cat__state_Kuala Lumpur <= 0.00",
+        "weight": -0.08544375449772172
+      },
+      {
+        "feature": "cat__state_New Jersey <= 0.00",
+        "weight": 0.08525073192781604
+      },
+      {
+        "feature": "cat__state_Ternopil Oblast <= 0.00",
+        "weight": -0.07655561654168307
+      },
+      {
+        "feature": "cat__state_Alabama <= 0.00",
+        "weight": -0.07163369454067624
+      },
+      {
+        "feature": "cat__state_Massachusetts <= 0.00",
+        "weight": 0.06807848746819362
+      },
+      {
+        "feature": "-0.30 < num__latitude <= 0.18",
+        "weight": -0.061625124887489294
+      },
+      {
+        "feature": "cat__state_Louisiana <= 0.00",
+        "weight": 0.05778673136711488
+      },
+      {
+        "feature": "cat__state_Lambayeque <= 0.00",
+        "weight": -0.05431827720590621
+      },
+      {
+        "feature": "cat__state_Iowa <= 0.00",
+        "weight": 0.0483438948561076
+      },
+      {
+        "feature": "cat__state_Queensland <= 0.00",
+        "weight": -0.04766172098842643
+      },
+      {
+        "feature": "cat__state_England <= 0.00",
+        "weight": 0.04626279732200086
+      },
+      {
+        "feature": "cat__state_New South Wales <= 0.00",
+        "weight": -0.028409114806178054
+      },
+      {
+        "feature": "cat__state_New York <= 0.00",
+        "weight": -0.02493741005164597
+      },
+      {
+        "feature": "cat__state_Dakar Region <= 0.00",
+        "weight": -0.021783883905131408
+      },
+      {
+        "feature": "cat__state_Karaganda Region <= 0.00",
+        "weight": -0.01615493127123839
+      },
+      {
+        "feature": "num__lat_lon_interaction <= -0.48",
+        "weight": -0.010772877671140853
+      },
+      {
+        "feature": "cat__state_Victoria <= 0.00",
+        "weight": 0.009941104920383179
+      },
+      {
+        "feature": "cat__state_Arizona <= 0.00",
+        "weight": 0.009233174032461863
+      },
+      {
+        "feature": "cat__state_Texas <= 0.00",
+        "weight": -0.008863942939474203
+      },
+      {
+        "feature": "num__longitude <= -0.42",
+        "weight": -0.0036354502675403078
+      },
+      {
+        "feature": "cat__state_Khuzestan Province <= 0.00",
+        "weight": 0.0
+      },
+      {
+        "feature": "cat__state_Al-Najaf Governorate <= 0.00",
+        "weight": 0.0
+      },
+      {
+        "feature": "cat__state_Mombasa County <= 0.00",
+        "weight": 0.0
+      },
+      {
+        "feature": "cat__state_Gujarat <= 0.00",
+        "weight": 0.0
+      },
+      {
+        "feature": "cat__state_New Brunswick <= 0.00",
+        "weight": 0.0
+      },
+      {
+        "feature": "cat__state_Shanghai <= 0.00",
+        "weight": 0.0
+      },
+      {
+        "feature": "cat__state_Kinshasa <= 0.00",
+        "weight": 0.0
+      },
+      {
+        "feature": "cat__state_Panam\u00e1 Province <= 0.00",
+        "weight": 0.0
+      },
+      {
+        "feature": "cat__state_Par\u00e1 <= 0.00",
+        "weight": 0.0
+      },
+      {
+        "feature": "cat__state_Itap\u00faa <= 0.00",
+        "weight": 0.0
+      },
+      {
+        "feature": "cat__state_Lower Saxony <= 0.00",
+        "weight": 0.0
+      },
+      {
+        "feature": "cat__state_Makkah Region <= 0.00",
+        "weight": 0.0
+      }
+    ]
+  },
+  {
+    "index": 2,
+    "predicted_log_deposit": 27.89746856689453,
+    "explanation": [
+      {
+        "feature": "num__density_ratio > -0.05",
+        "weight": 7.519020619058683
+      },
+      {
+        "feature": "cat__state_Queensland <= 0.00",
+        "weight": 4.666613723828159
+      },
+      {
+        "feature": "cat__state_Nevada <= 0.00",
+        "weight": 2.8477559488955153
+      },
+      {
+        "feature": "cat__state_Tunis <= 0.00",
+        "weight": -2.265690556628693
+      },
+      {
+        "feature": "cat__state_Puerto Rico <= 0.00",
+        "weight": -2.0414690420765007
+      },
+      {
+        "feature": "cat__state_Meru County <= 0.00",
+        "weight": 1.7896996788682744
+      },
+      {
+        "feature": "cat__state_New South Wales <= 0.00",
+        "weight": -1.7598233440266777
+      },
+      {
+        "feature": "cat__state_Bihar <= 0.00",
+        "weight": -1.7514536986428857
+      },
+      {
+        "feature": "cat__state_Andhra Pradesh <= 0.00",
+        "weight": 1.7336911611455856
+      },
+      {
+        "feature": "cat__state_Bulacan <= 0.00",
+        "weight": 1.7170031460222899
+      },
+      {
+        "feature": "cat__state_Newfoundland and Labrador <= 0.00",
+        "weight": -1.6769371223694447
+      },
+      {
+        "feature": "num__branch_density_10km > 0.04",
+        "weight": 1.6654764680794203
+      },
+      {
+        "feature": "cat__state_Dakar Region <= 0.00",
+        "weight": -1.4602869890887342
+      },
+      {
+        "feature": "cat__state_Western Region <= 0.00",
+        "weight": -1.3604504189146784
+      },
+      {
+        "feature": "cat__state_Bagamati Province <= 0.00",
+        "weight": -1.3358129200793765
+      },
+      {
+        "feature": "cat__state_New Hampshire <= 0.00",
+        "weight": 1.319863253246627
+      },
+      {
+        "feature": "cat__state_Gujarat <= 0.00",
+        "weight": -1.3187938356455062
+      },
+      {
+        "feature": "cat__state_Dodoma Region <= 0.00",
+        "weight": 1.3156058308750693
+      },
+      {
+        "feature": "cat__state_Capital District <= 0.00",
+        "weight": -1.307307790946587
+      },
+      {
+        "feature": "cat__state_Masovian Voivodeship <= 0.00",
+        "weight": -1.296306739093568
+      },
+      {
+        "feature": "cat__state_Rhode Island <= 0.00",
+        "weight": -1.2887568835762249
+      },
+      {
+        "feature": "cat__state_Paramaribo <= 0.00",
+        "weight": 1.273833642274275
+      },
+      {
+        "feature": "cat__state_Panam\u00e1 Province <= 0.00",
+        "weight": 1.2634367596584186
+      },
+      {
+        "feature": "cat__state_Khyber Pakhtunkhwa <= 0.00",
+        "weight": -1.1262154736636194
+      },
+      {
+        "feature": "cat__state_New Mexico <= 0.00",
+        "weight": 1.0276762071890082
+      },
+      {
+        "feature": "cat__state_Tripoli <= 0.00",
+        "weight": -1.0052068099685858
+      },
+      {
+        "feature": "cat__state_Saint Petersburg <= 0.00",
+        "weight": -0.9704795223401919
+      },
+      {
+        "feature": "cat__state_Moscow <= 0.00",
+        "weight": -0.9371500258949033
+      },
+      {
+        "feature": "cat__state_Shandong <= 0.00",
+        "weight": -0.9136501813577645
+      },
+      {
+        "feature": "cat__state_Telangana <= 0.00",
+        "weight": -0.8900729547022097
+      },
+      {
+        "feature": "cat__state_Hong Kong <= 0.00",
+        "weight": 0.8862098024817862
+      },
+      {
+        "feature": "cat__state_Scotland <= 0.00",
+        "weight": -0.8849044029141955
+      },
+      {
+        "feature": "cat__state_Pridnestrovie <= 0.00",
+        "weight": 0.8715874109566493
+      },
+      {
+        "feature": "cat__state_Alaska <= 0.00",
+        "weight": -0.8715331628094237
+      },
+      {
+        "feature": "cat__state_Central Equatoria <= 0.00",
+        "weight": 0.8613525937160589
+      },
+      {
+        "feature": "cat__state_Northern Province <= 0.00",
+        "weight": -0.8248522191814753
+      },
+      {
+        "feature": "cat__state_Prince Edward Island <= 0.00",
+        "weight": 0.7879584765223262
+      },
+      {
+        "feature": "cat__state_Zomba <= 0.00",
+        "weight": -0.7878975972609963
+      },
+      {
+        "feature": "cat__state_Mexico City <= 0.00",
+        "weight": -0.7778857953972926
+      },
+      {
+        "feature": "cat__state_Central Region <= 0.00",
+        "weight": -0.7686737920424863
+      },
+      {
+        "feature": "cat__state_Subcarpathian Voivodeship <= 0.00",
+        "weight": 0.7099608953650082
+      },
+      {
+        "feature": "cat__state_Lumbini Province <= 0.00",
+        "weight": -0.6579950251633201
+      },
+      {
+        "feature": "cat__state_Miranda State <= 0.00",
+        "weight": 0.617173615929446
+      },
+      {
+        "feature": "cat__state_Plateau State <= 0.00",
+        "weight": -0.6092026251074976
+      },
+      {
+        "feature": "cat__state_Koshi Province <= 0.00",
+        "weight": 0.6070108826970387
+      },
+      {
+        "feature": "cat__state_Vermont <= 0.00",
+        "weight": -0.6029624577486481
+      },
+      {
+        "feature": "cat__state_Saskatchewan <= 0.00",
+        "weight": -0.600600609723276
+      },
+      {
+        "feature": "cat__state_Alberta <= 0.00",
+        "weight": -0.5957519190103284
+      },
+      {
+        "feature": "cat__state_Nova Scotia <= 0.00",
+        "weight": -0.5947271165861445
+      },
+      {
+        "feature": "cat__state_Oregon <= 0.00",
+        "weight": -0.5584056749466867
+      },
+      {
+        "feature": "cat__state_Nueva Ecija <= 0.00",
+        "weight": 0.5419324370855633
+      },
+      {
+        "feature": "cat__state_Ontario <= 0.00",
+        "weight": -0.5345470077991834
+      },
+      {
+        "feature": "cat__state_Estuaire Province <= 0.00",
+        "weight": 0.5285064576484535
+      },
+      {
+        "feature": "cat__state_Delhi <= 0.00",
+        "weight": -0.5250159870899983
+      },
+      {
+        "feature": "cat__state_Karnataka <= 0.00",
+        "weight": 0.5182921216844738
+      },
+      {
+        "feature": "cat__state_Hubei <= 0.00",
+        "weight": 0.5125087531055103
+      },
+      {
+        "feature": "cat__state_Western Province <= 0.00",
+        "weight": -0.49605993706169627
+      },
+      {
+        "feature": "cat__state_Mississippi <= 0.00",
+        "weight": -0.4957277117199188
+      },
+      {
+        "feature": "cat__state_Wales <= 0.00",
+        "weight": -0.4831785143254319
+      },
+      {
+        "feature": "cat__state_Dhaka Division <= 0.00",
+        "weight": 0.4789350252936623
+      },
+      {
+        "feature": "cat__state_Mombasa County <= 0.00",
+        "weight": 0.4787208549872845
+      },
+      {
+        "feature": "cat__state_Cayo District <= 0.00",
+        "weight": -0.4775923996435414
+      },
+      {
+        "feature": "cat__state_Tamil Nadu <= 0.00",
+        "weight": 0.4724441702388773
+      },
+      {
+        "feature": "cat__state_Maine <= 0.00",
+        "weight": 0.47075201299142916
+      },
+      {
+        "feature": "cat__state_Al-Najaf Governorate <= 0.00",
+        "weight": -0.46711642556277
+      },
+      {
+        "feature": "cat__state_Louisiana <= 0.00",
+        "weight": -0.46244591765866433
+      },
+      {
+        "feature": "cat__state_Delaware <= 0.00",
+        "weight": 0.4323195531261484
+      },
+      {
+        "feature": "cat__state_Idaho <= 0.00",
+        "weight": -0.4179145381332694
+      },
+      {
+        "feature": "cat__state_Abu Dhabi Emirate <= 0.00",
+        "weight": -0.4077660716120752
+      },
+      {
+        "feature": "cat__state_South Australia <= 0.00",
+        "weight": 0.39746148098409834
+      },
+      {
+        "feature": "cat__state_Kerala <= 0.00",
+        "weight": -0.3890927803852688
+      },
+      {
+        "feature": "cat__state_Greater Accra Region <= 0.00",
+        "weight": 0.3837004762748025
+      },
+      {
+        "feature": "cat__state_Northern Ireland <= 0.00",
+        "weight": -0.3803797796407325
+      },
+      {
+        "feature": "cat__state_New Jersey <= 0.00",
+        "weight": 0.3784688686947274
+      },
+      {
+        "feature": "cat__state_Lambayeque <= 0.00",
+        "weight": -0.3737164563879359
+      },
+      {
+        "feature": "cat__state_Prague <= 0.00",
+        "weight": 0.3656625012373188
+      },
+      {
+        "feature": "cat__state_Aswan <= 0.00",
+        "weight": -0.36113774366975104
+      },
+      {
+        "feature": "cat__state_British Columbia <= 0.00",
+        "weight": 0.3466108924599371
+      },
+      {
+        "feature": "cat__state_Washington <= 0.00",
+        "weight": -0.33391784093251536
+      },
+      {
+        "feature": "cat__state_Texas <= 0.00",
+        "weight": 0.3076542989500996
+      },
+      {
+        "feature": "cat__state_Arizona <= 0.00",
+        "weight": 0.30710272781114245
+      },
+      {
+        "feature": "cat__state_North Carolina <= 0.00",
+        "weight": -0.30494006307667976
+      },
+      {
+        "feature": "cat__state_Alabama <= 0.00",
+        "weight": -0.3030514202953673
+      },
+      {
+        "feature": "cat__state_Itap\u00faa <= 0.00",
+        "weight": 0.2887999710773622
+      },
+      {
+        "feature": "cat__state_Ternopil Oblast <= 0.00",
+        "weight": 0.2821559281605114
+      },
+      {
+        "feature": "cat__state_Kansas <= 0.00",
+        "weight": -0.2717864352886009
+      },
+      {
+        "feature": "cat__state_Auckland <= 0.00",
+        "weight": -0.26417848197570143
+      },
+      {
+        "feature": "cat__state_Massachusetts <= 0.00",
+        "weight": 0.262027463399979
+      },
+      {
+        "feature": "cat__state_Oklahoma <= 0.00",
+        "weight": 0.26192841681275686
+      },
+      {
+        "feature": "cat__state_California <= 0.00",
+        "weight": -0.24982285250749958
+      },
+      {
+        "feature": "cat__state_Connecticut <= 0.00",
+        "weight": 0.24207501644528368
+      },
+      {
+        "feature": "cat__state_KwaZulu-Natal <= 0.00",
+        "weight": 0.2414380526639847
+      },
+      {
+        "feature": "cat__state_Montana <= 0.00",
+        "weight": 0.23575575068344423
+      },
+      {
+        "feature": "cat__state_North Dakota <= 0.00",
+        "weight": 0.22823687069361087
+      },
+      {
+        "feature": "cat__state_Hawaii <= 0.00",
+        "weight": 0.22207205338031455
+      },
+      {
+        "feature": "cat__state_West Virginia <= 0.00",
+        "weight": 0.21398827421267066
+      },
+      {
+        "feature": "cat__state_Cyprus <= 0.00",
+        "weight": -0.2045445571785458
+      },
+      {
+        "feature": "cat__state_New Brunswick <= 0.00",
+        "weight": 0.19271836788572316
+      },
+      {
+        "feature": "cat__state_Kuala Lumpur <= 0.00",
+        "weight": -0.1890389371334276
+      },
+      {
+        "feature": "cat__state_Stann Creek District <= 0.00",
+        "weight": 0.18381029580979924
+      },
+      {
+        "feature": "-0.12 < num__lat_lon_interaction <= 0.08",
+        "weight": -0.1795557733925591
+      },
+      {
+        "feature": "cat__state_Mwanza Region <= 0.00",
+        "weight": -0.17936142039952296
+      },
+      {
+        "feature": "cat__state_Pennsylvania > 0.00",
+        "weight": -0.1730524057283763
+      },
+      {
+        "feature": "cat__state_Iowa <= 0.00",
+        "weight": -0.16514744989466776
+      },
+      {
+        "feature": "cat__state_Tel-Aviv District <= 0.00",
+        "weight": -0.15247312572982882
+      },
+      {
+        "feature": "cat__state_Tennessee <= 0.00",
+        "weight": 0.14817914980296845
+      },
+      {
+        "feature": "cat__state_Medina Province <= 0.00",
+        "weight": 0.14695564645945888
+      },
+      {
+        "feature": "cat__state_Northern Region <= 0.00",
+        "weight": -0.14367005816227735
+      },
+      {
+        "feature": "cat__state_Ohio <= 0.00",
+        "weight": -0.13979580608899497
+      },
+      {
+        "feature": "cat__state_Florida <= 0.00",
+        "weight": 0.12332138397636169
+      },
+      {
+        "feature": "0.18 < num__latitude <= 0.48",
+        "weight": -0.09870510053016653
+      },
+      {
+        "feature": "cat__state_Colorado <= 0.00",
+        "weight": 0.09611109273071858
+      },
+      {
+        "feature": "cat__state_New York <= 0.00",
+        "weight": 0.09477869005075851
+      },
+      {
+        "feature": "cat__state_England <= 0.00",
+        "weight": -0.0884080759754524
+      },
+      {
+        "feature": "cat__state_Indiana <= 0.00",
+        "weight": 0.08356130285187738
+      },
+      {
+        "feature": "cat__state_Michigan <= 0.00",
+        "weight": -0.08355072521206124
+      },
+      {
+        "feature": "cat__state_Nebraska <= 0.00",
+        "weight": -0.0815992609859779
+      },
+      {
+        "feature": "cat__state_Georgia <= 0.00",
+        "weight": -0.07930741515639271
+      },
+      {
+        "feature": "cat__state_Illinois <= 0.00",
+        "weight": -0.07255914105271764
+      },
+      {
+        "feature": "-0.23 < num__log_nearest_distance <= 0.84",
+        "weight": 0.07134426392424208
+      },
+      {
+        "feature": "cat__state_District of Columbia <= 0.00",
+        "weight": 0.0696966152642183
+      },
+      {
+        "feature": "cat__state_Kentucky <= 0.00",
+        "weight": -0.06943363205943301
+      },
+      {
+        "feature": "cat__state_Victoria <= 0.00",
+        "weight": -0.0650275188571708
+      },
+      {
+        "feature": "cat__state_Wyoming <= 0.00",
+        "weight": 0.05909582239475557
+      },
+      {
+        "feature": "cat__state_Missouri <= 0.00",
+        "weight": 0.053857556745962154
+      },
+      {
+        "feature": "cat__state_South Dakota <= 0.00",
+        "weight": -0.05286559076400195
+      },
+      {
+        "feature": "cat__state_Utah <= 0.00",
+        "weight": -0.05190430307930735
+      },
+      {
+        "feature": "cat__state_Wisconsin <= 0.00",
+        "weight": 0.04683187769559222
+      },
+      {
+        "feature": "cat__state_nan <= 0.00",
+        "weight": -0.045276915751457286
+      },
+      {
+        "feature": "cat__state_Virginia <= 0.00",
+        "weight": 0.04169500014569137
+      },
+      {
+        "feature": "cat__state_Kogi State <= 0.00",
+        "weight": -0.03209308947694493
+      },
+      {
+        "feature": "cat__state_Arkansas <= 0.00",
+        "weight": 0.030417104505338258
+      },
+      {
+        "feature": "cat__state_Maryland <= 0.00",
+        "weight": 0.025266590702713553
+      },
+      {
+        "feature": "cat__state_Nairobi County <= 0.00",
+        "weight": 0.021999058376597307
+      },
+      {
+        "feature": "cat__state_Minnesota <= 0.00",
+        "weight": 0.017236541785658206
+      },
+      {
+        "feature": "cat__state_Limburg <= 0.00",
+        "weight": 0.012712261116579278
+      },
+      {
+        "feature": "num__longitude > -0.03",
+        "weight": 0.01266991875851134
+      },
+      {
+        "feature": "cat__state_Oyo State <= 0.00",
+        "weight": -0.010846488481332307
+      },
+      {
+        "feature": "cat__state_Khuzestan Province <= 0.00",
+        "weight": 0.010656444946450617
+      },
+      {
+        "feature": "cat__state_South Carolina <= 0.00",
+        "weight": -0.000898878389630039
+      },
+      {
+        "feature": "cat__state_Bavaria <= 0.00",
+        "weight": 0.0
+      },
+      {
+        "feature": "cat__state_Chelyabinsk Oblast <= 0.00",
+        "weight": 0.0
+      },
+      {
+        "feature": "cat__state_Central Province <= 0.00",
+        "weight": 0.0
+      },
+      {
+        "feature": "cat__state_Blantyre <= 0.00",
+        "weight": 0.0
+      },
+      {
+        "feature": "cat__state_Karaganda Region <= 0.00",
+        "weight": 0.0
+      },
+      {
+        "feature": "cat__state_Lviv Oblast <= 0.00",
+        "weight": 0.0
+      },
+      {
+        "feature": "cat__state_Kinshasa <= 0.00",
+        "weight": 0.0
+      },
+      {
+        "feature": "cat__state_Lower Saxony <= 0.00",
+        "weight": 0.0
+      },
+      {
+        "feature": "cat__state_Rio de Janeiro <= 0.00",
+        "weight": 0.0
+      },
+      {
+        "feature": "cat__state_United States Virgin Islands <= 0.00",
+        "weight": 0.0
+      },
+      {
+        "feature": "cat__state_Par\u00e1 <= 0.00",
+        "weight": 0.0
+      },
+      {
+        "feature": "cat__state_Ratak Chain <= 0.00",
+        "weight": 0.0
+      },
+      {
+        "feature": "cat__state_Shanghai <= 0.00",
+        "weight": 0.0
+      },
+      {
+        "feature": "cat__state_Makkah Region <= 0.00",
+        "weight": 0.0
+      }
+    ]
+  },
+  {
+    "index": 3,
+    "predicted_log_deposit": 27.36547088623047,
+    "explanation": [
+      {
+        "feature": "cat__state_Par\u00e1 <= 0.00",
+        "weight": 8.047702101846076
+      },
+      {
+        "feature": "num__density_ratio > -0.05",
+        "weight": 7.38243646372711
+      },
+      {
+        "feature": "cat__state_Lviv Oblast <= 0.00",
+        "weight": -2.068813137823043
+      },
+      {
+        "feature": "cat__state_Dodoma Region <= 0.00",
+        "weight": -2.0193550470976933
+      },
+      {
+        "feature": "cat__state_Central Region <= 0.00",
+        "weight": 1.8233497431629835
+      },
+      {
+        "feature": "cat__state_Tamil Nadu <= 0.00",
+        "weight": 1.807751204176056
+      },
+      {
+        "feature": "cat__state_Al-Najaf Governorate <= 0.00",
+        "weight": 1.7292903818904808
+      },
+      {
+        "feature": "cat__state_Auckland <= 0.00",
+        "weight": 1.6624436586035836
+      },
+      {
+        "feature": "cat__state_Cyprus <= 0.00",
+        "weight": -1.549166313616028
+      },
+      {
+        "feature": "cat__state_Estuaire Province > 0.00",
+        "weight": 1.4848573369478149
+      },
+      {
+        "feature": "cat__state_Pridnestrovie <= 0.00",
+        "weight": 1.4723096670458216
+      },
+      {
+        "feature": "cat__state_Aswan <= 0.00",
+        "weight": 1.4634292831389473
+      },
+      {
+        "feature": "cat__state_Northern Province <= 0.00",
+        "weight": -1.4533381230645281
+      },
+      {
+        "feature": "cat__state_Chelyabinsk Oblast <= 0.00",
+        "weight": 1.41463027934609
+      },
+      {
+        "feature": "cat__state_New South Wales <= 0.00",
+        "weight": -1.3921109053186198
+      },
+      {
+        "feature": "cat__state_Limburg <= 0.00",
+        "weight": -1.3605241444070157
+      },
+      {
+        "feature": "cat__state_Ratak Chain <= 0.00",
+        "weight": -1.315756735799781
+      },
+      {
+        "feature": "cat__state_Gujarat <= 0.00",
+        "weight": -1.274569814385883
+      },
+      {
+        "feature": "cat__state_Capital District <= 0.00",
+        "weight": -1.2155143473102739
+      },
+      {
+        "feature": "cat__state_Delaware <= 0.00",
+        "weight": 1.1646027880792151
+      },
+      {
+        "feature": "cat__state_Bavaria <= 0.00",
+        "weight": 1.156801679418342
+      },
+      {
+        "feature": "cat__state_Moscow <= 0.00",
+        "weight": -1.1012905601169203
+      },
+      {
+        "feature": "cat__state_Mombasa County <= 0.00",
+        "weight": 1.0954276590463268
+      },
+      {
+        "feature": "cat__state_Saskatchewan <= 0.00",
+        "weight": -1.092510322121566
+      },
+      {
+        "feature": "cat__state_Cayo District <= 0.00",
+        "weight": -1.0729348938431231
+      },
+      {
+        "feature": "cat__state_New Mexico <= 0.00",
+        "weight": 1.0547526118509805
+      },
+      {
+        "feature": "cat__state_Central Province <= 0.00",
+        "weight": -1.0279667727384734
+      },
+      {
+        "feature": "cat__state_Telangana <= 0.00",
+        "weight": 1.0113901223359036
+      },
+      {
+        "feature": "cat__state_New Brunswick <= 0.00",
+        "weight": 0.9820541672450153
+      },
+      {
+        "feature": "cat__state_Greater Accra Region <= 0.00",
+        "weight": -0.9761831182086732
+      },
+      {
+        "feature": "cat__state_Idaho <= 0.00",
+        "weight": 0.9360312640667634
+      },
+      {
+        "feature": "cat__state_Central Equatoria <= 0.00",
+        "weight": -0.9165450327301387
+      },
+      {
+        "feature": "cat__state_Utah <= 0.00",
+        "weight": 0.9123133996388127
+      },
+      {
+        "feature": "cat__state_Koshi Province <= 0.00",
+        "weight": 0.9114484400150653
+      },
+      {
+        "feature": "cat__state_Masovian Voivodeship <= 0.00",
+        "weight": 0.8739414664157682
+      },
+      {
+        "feature": "cat__state_Paramaribo <= 0.00",
+        "weight": 0.8659742293766404
+      },
+      {
+        "feature": "cat__state_Mwanza Region <= 0.00",
+        "weight": -0.7903653278196981
+      },
+      {
+        "feature": "cat__state_Itap\u00faa <= 0.00",
+        "weight": 0.7378140469284122
+      },
+      {
+        "feature": "cat__state_Lambayeque <= 0.00",
+        "weight": -0.736238745312717
+      },
+      {
+        "feature": "cat__state_British Columbia <= 0.00",
+        "weight": -0.7341700978854853
+      },
+      {
+        "feature": "cat__state_Oyo State <= 0.00",
+        "weight": -0.713874435499463
+      },
+      {
+        "feature": "cat__state_Bulacan <= 0.00",
+        "weight": -0.708664699842004
+      },
+      {
+        "feature": "cat__state_Abu Dhabi Emirate <= 0.00",
+        "weight": -0.683512579996714
+      },
+      {
+        "feature": "cat__state_Dakar Region <= 0.00",
+        "weight": 0.6389332491147408
+      },
+      {
+        "feature": "num__log_nearest_distance > 0.84",
+        "weight": -0.6300349345786762
+      },
+      {
+        "feature": "cat__state_Tripoli <= 0.00",
+        "weight": -0.6254295538497886
+      },
+      {
+        "feature": "cat__state_Meru County <= 0.00",
+        "weight": 0.6186535758949695
+      },
+      {
+        "feature": "cat__state_Alabama <= 0.00",
+        "weight": -0.6140075622305827
+      },
+      {
+        "feature": "cat__state_Zomba <= 0.00",
+        "weight": -0.6054902166795446
+      },
+      {
+        "feature": "cat__state_Tel-Aviv District <= 0.00",
+        "weight": 0.5949546172502306
+      },
+      {
+        "feature": "cat__state_Karnataka <= 0.00",
+        "weight": -0.5831638746754492
+      },
+      {
+        "feature": "cat__state_North Carolina <= 0.00",
+        "weight": 0.5596487728388402
+      },
+      {
+        "feature": "cat__state_Queensland <= 0.00",
+        "weight": -0.5513550745296951
+      },
+      {
+        "feature": "cat__state_Kerala <= 0.00",
+        "weight": -0.5470374270230812
+      },
+      {
+        "feature": "cat__state_Delhi <= 0.00",
+        "weight": 0.5452621825187747
+      },
+      {
+        "feature": "cat__state_Vermont <= 0.00",
+        "weight": 0.5218236582356619
+      },
+      {
+        "feature": "cat__state_Saint Petersburg <= 0.00",
+        "weight": -0.5147155328624615
+      },
+      {
+        "feature": "cat__state_Wales <= 0.00",
+        "weight": 0.5093538957737116
+      },
+      {
+        "feature": "cat__state_Shanghai <= 0.00",
+        "weight": -0.4962340248250226
+      },
+      {
+        "feature": "cat__state_Khuzestan Province <= 0.00",
+        "weight": 0.4873859312304253
+      },
+      {
+        "feature": "cat__state_Indiana <= 0.00",
+        "weight": -0.47980717389610944
+      },
+      {
+        "feature": "cat__state_Kinshasa <= 0.00",
+        "weight": -0.4746253932102723
+      },
+      {
+        "feature": "cat__state_Arizona <= 0.00",
+        "weight": -0.4628773049600535
+      },
+      {
+        "feature": "num__branch_density_10km <= -0.62",
+        "weight": -0.46081503565644233
+      },
+      {
+        "feature": "cat__state_Kuala Lumpur <= 0.00",
+        "weight": -0.4576926286310583
+      },
+      {
+        "feature": "cat__state_Hong Kong <= 0.00",
+        "weight": -0.44952712494735064
+      },
+      {
+        "feature": "cat__state_Dhaka Division <= 0.00",
+        "weight": 0.4445979503263497
+      },
+      {
+        "feature": "cat__state_Washington <= 0.00",
+        "weight": 0.43109622418901394
+      },
+      {
+        "feature": "cat__state_Kogi State <= 0.00",
+        "weight": -0.42123963213667154
+      },
+      {
+        "feature": "cat__state_Mississippi <= 0.00",
+        "weight": -0.4204629242660928
+      },
+      {
+        "feature": "cat__state_Lumbini Province <= 0.00",
+        "weight": -0.41945523263943546
+      },
+      {
+        "feature": "cat__state_Nevada <= 0.00",
+        "weight": 0.41003154077402454
+      },
+      {
+        "feature": "cat__state_Khyber Pakhtunkhwa <= 0.00",
+        "weight": -0.38784600558614907
+      },
+      {
+        "feature": "cat__state_Oregon <= 0.00",
+        "weight": 0.3637331547933294
+      },
+      {
+        "feature": "cat__state_Blantyre <= 0.00",
+        "weight": 0.361368247637451
+      },
+      {
+        "feature": "cat__state_Nueva Ecija <= 0.00",
+        "weight": -0.3478025292848295
+      },
+      {
+        "feature": "cat__state_New Jersey <= 0.00",
+        "weight": -0.34235755910701726
+      },
+      {
+        "feature": "cat__state_Ohio <= 0.00",
+        "weight": -0.3371221468698304
+      },
+      {
+        "feature": "cat__state_Connecticut <= 0.00",
+        "weight": 0.3335145646046354
+      },
+      {
+        "feature": "cat__state_West Virginia <= 0.00",
+        "weight": 0.3265022181532551
+      },
+      {
+        "feature": "cat__state_Wyoming <= 0.00",
+        "weight": -0.30965967357761304
+      },
+      {
+        "feature": "cat__state_KwaZulu-Natal <= 0.00",
+        "weight": -0.3077265960924691
+      },
+      {
+        "feature": "cat__state_Georgia <= 0.00",
+        "weight": -0.2999254079473048
+      },
+      {
+        "feature": "cat__state_Puerto Rico <= 0.00",
+        "weight": 0.2997828725250301
+      },
+      {
+        "feature": "cat__state_United States Virgin Islands <= 0.00",
+        "weight": -0.29801283613126706
+      },
+      {
+        "feature": "cat__state_Subcarpathian Voivodeship <= 0.00",
+        "weight": -0.28549531762128144
+      },
+      {
+        "feature": "cat__state_Virginia <= 0.00",
+        "weight": -0.2802905535726832
+      },
+      {
+        "feature": "cat__state_Northern Ireland <= 0.00",
+        "weight": 0.276942930007598
+      },
+      {
+        "feature": "cat__state_Pennsylvania <= 0.00",
+        "weight": -0.2746879570058009
+      },
+      {
+        "feature": "cat__state_Victoria <= 0.00",
+        "weight": -0.2603791880314855
+      },
+      {
+        "feature": "cat__state_Bagamati Province <= 0.00",
+        "weight": -0.2594766033646586
+      },
+      {
+        "feature": "cat__state_Maryland <= 0.00",
+        "weight": -0.2581353446133731
+      },
+      {
+        "feature": "cat__state_Tunis <= 0.00",
+        "weight": -0.25138626928299185
+      },
+      {
+        "feature": "cat__state_South Australia <= 0.00",
+        "weight": -0.25025464476350057
+      },
+      {
+        "feature": "cat__state_New Hampshire <= 0.00",
+        "weight": -0.23937434555113643
+      },
+      {
+        "feature": "cat__state_Massachusetts <= 0.00",
+        "weight": 0.23793787115422776
+      },
+      {
+        "feature": "cat__state_Florida <= 0.00",
+        "weight": 0.23257425185002528
+      },
+      {
+        "feature": "cat__state_Kansas <= 0.00",
+        "weight": -0.2312175960639156
+      },
+      {
+        "feature": "cat__state_Hubei <= 0.00",
+        "weight": 0.2213739524301045
+      },
+      {
+        "feature": "cat__state_Wisconsin <= 0.00",
+        "weight": 0.2183708631778064
+      },
+      {
+        "feature": "cat__state_Illinois <= 0.00",
+        "weight": 0.21693247787404005
+      },
+      {
+        "feature": "cat__state_New York <= 0.00",
+        "weight": 0.21299586024355438
+      },
+      {
+        "feature": "cat__state_South Dakota <= 0.00",
+        "weight": -0.2052819716168282
+      },
+      {
+        "feature": "cat__state_Minnesota <= 0.00",
+        "weight": 0.20392236650005968
+      },
+      {
+        "feature": "cat__state_Miranda State <= 0.00",
+        "weight": 0.20337170749305694
+      },
+      {
+        "feature": "cat__state_Newfoundland and Labrador <= 0.00",
+        "weight": 0.1804757049543815
+      },
+      {
+        "feature": "cat__state_South Carolina <= 0.00",
+        "weight": 0.16822255848791226
+      },
+      {
+        "feature": "cat__state_Shandong <= 0.00",
+        "weight": 0.168150633779566
+      },
+      {
+        "feature": "cat__state_Missouri <= 0.00",
+        "weight": 0.167845750638184
+      },
+      {
+        "feature": "cat__state_Maine <= 0.00",
+        "weight": 0.15789263617938154
+      },
+      {
+        "feature": "cat__state_Mexico City <= 0.00",
+        "weight": 0.1483275533730524
+      },
+      {
+        "feature": "cat__state_Ternopil Oblast <= 0.00",
+        "weight": -0.14681378507372378
+      },
+      {
+        "feature": "cat__state_England <= 0.00",
+        "weight": -0.14409631880250032
+      },
+      {
+        "feature": "cat__state_Nairobi County <= 0.00",
+        "weight": -0.14313626644810745
+      },
+      {
+        "feature": "cat__state_Rhode Island <= 0.00",
+        "weight": -0.14155073587036196
+      },
+      {
+        "feature": "num__lat_lon_interaction > 0.08",
+        "weight": -0.1401178680832415
+      },
+      {
+        "feature": "cat__state_Michigan <= 0.00",
+        "weight": 0.13898013569871073
+      },
+      {
+        "feature": "num__latitude <= -0.30",
+        "weight": 0.13001799043032616
+      },
+      {
+        "feature": "cat__state_Colorado <= 0.00",
+        "weight": -0.10924075424500693
+      },
+      {
+        "feature": "cat__state_Prince Edward Island <= 0.00",
+        "weight": -0.10832353587491542
+      },
+      {
+        "feature": "cat__state_Louisiana <= 0.00",
+        "weight": -0.10818680226347657
+      },
+      {
+        "feature": "num__longitude > -0.03",
+        "weight": 0.10225621765107912
+      },
+      {
+        "feature": "cat__state_Nebraska <= 0.00",
+        "weight": 0.09447892313326256
+      },
+      {
+        "feature": "cat__state_District of Columbia <= 0.00",
+        "weight": -0.0942976484948974
+      },
+      {
+        "feature": "cat__state_Ontario <= 0.00",
+        "weight": -0.0754023419909814
+      },
+      {
+        "feature": "cat__state_Nova Scotia <= 0.00",
+        "weight": -0.07381609853059909
+      },
+      {
+        "feature": "cat__state_Scotland <= 0.00",
+        "weight": 0.07285420321818387
+      },
+      {
+        "feature": "cat__state_North Dakota <= 0.00",
+        "weight": 0.07138125174407975
+      },
+      {
+        "feature": "cat__state_Hawaii <= 0.00",
+        "weight": 0.07091997609454392
+      },
+      {
+        "feature": "cat__state_Iowa <= 0.00",
+        "weight": -0.0704806968218671
+      },
+      {
+        "feature": "cat__state_Texas <= 0.00",
+        "weight": 0.06877391568433071
+      },
+      {
+        "feature": "cat__state_California <= 0.00",
+        "weight": -0.06397331647618888
+      },
+      {
+        "feature": "cat__state_Tennessee <= 0.00",
+        "weight": -0.06332045777246187
+      },
+      {
+        "feature": "cat__state_Karaganda Region <= 0.00",
+        "weight": 0.06078348750481599
+      },
+      {
+        "feature": "cat__state_nan <= 0.00",
+        "weight": -0.03108827239076677
+      },
+      {
+        "feature": "cat__state_Oklahoma <= 0.00",
+        "weight": -0.026758681288904167
+      },
+      {
+        "feature": "cat__state_Alaska <= 0.00",
+        "weight": 0.02298681030651516
+      },
+      {
+        "feature": "cat__state_Arkansas <= 0.00",
+        "weight": 0.019667861504851072
+      },
+      {
+        "feature": "cat__state_Montana <= 0.00",
+        "weight": -0.01739251093673112
+      },
+      {
+        "feature": "cat__state_Kentucky <= 0.00",
+        "weight": 0.009441946915512601
+      },
+      {
+        "feature": "cat__state_Bihar <= 0.00",
+        "weight": 0.007126697336166419
+      },
+      {
+        "feature": "cat__state_Plateau State <= 0.00",
+        "weight": -0.000818334279001304
+      },
+      {
+        "feature": "cat__state_Makkah Region <= 0.00",
+        "weight": 0.0
+      },
+      {
+        "feature": "cat__state_Lower Saxony <= 0.00",
+        "weight": 0.0
+      },
+      {
+        "feature": "cat__state_Stann Creek District <= 0.00",
+        "weight": 0.0
+      },
+      {
+        "feature": "cat__state_Alberta <= 0.00",
+        "weight": 0.0
+      },
+      {
+        "feature": "cat__state_Andhra Pradesh <= 0.00",
+        "weight": 0.0
+      },
+      {
+        "feature": "cat__state_Panam\u00e1 Province <= 0.00",
+        "weight": 0.0
+      },
+      {
+        "feature": "cat__state_Western Province <= 0.00",
+        "weight": 0.0
+      },
+      {
+        "feature": "cat__state_Western Region <= 0.00",
+        "weight": 0.0
+      },
+      {
+        "feature": "cat__state_Rio de Janeiro <= 0.00",
+        "weight": 0.0
+      },
+      {
+        "feature": "cat__state_Northern Region <= 0.00",
+        "weight": 0.0
+      },
+      {
+        "feature": "cat__state_Medina Province <= 0.00",
+        "weight": 0.0
+      },
+      {
+        "feature": "cat__state_Prague <= 0.00",
+        "weight": 0.0
+      }
+    ]
+  },
+  {
+    "index": 6,
+    "predicted_log_deposit": 26.923227310180664,
+    "explanation": [
+      {
+        "feature": "num__density_ratio > -0.05",
+        "weight": 7.427937328936764
+      },
+      {
+        "feature": "cat__state_Blantyre <= 0.00",
+        "weight": -2.050549175912806
+      },
+      {
+        "feature": "cat__state_Dodoma Region <= 0.00",
+        "weight": -1.8650768235073025
+      },
+      {
+        "feature": "cat__state_Plateau State <= 0.00",
+        "weight": -1.713878287592407
+      },
+      {
+        "feature": "cat__state_Central Region <= 0.00",
+        "weight": -1.6366095437880288
+      },
+      {
+        "feature": "cat__state_Mwanza Region <= 0.00",
+        "weight": -1.5139059968454784
+      },
+      {
+        "feature": "cat__state_Makkah Region <= 0.00",
+        "weight": 1.4587412862229798
+      },
+      {
+        "feature": "cat__state_Prince Edward Island <= 0.00",
+        "weight": -1.4109390444728143
+      },
+      {
+        "feature": "cat__state_Saint Petersburg <= 0.00",
+        "weight": 1.3316032154678927
+      },
+      {
+        "feature": "cat__state_Aswan <= 0.00",
+        "weight": 1.3256356122042767
+      },
+      {
+        "feature": "cat__state_Limburg <= 0.00",
+        "weight": -1.3179714892477372
+      },
+      {
+        "feature": "cat__state_Nueva Ecija <= 0.00",
+        "weight": -1.2998347364042753
+      },
+      {
+        "feature": "cat__state_Mexico City <= 0.00",
+        "weight": -1.2641329584233754
+      },
+      {
+        "feature": "cat__state_Wales <= 0.00",
+        "weight": -1.1958610977845319
+      },
+      {
+        "feature": "cat__state_Northern Ireland <= 0.00",
+        "weight": 1.1830772673179215
+      },
+      {
+        "feature": "cat__state_Vermont <= 0.00",
+        "weight": 1.1742981114523607
+      },
+      {
+        "feature": "cat__state_Lambayeque <= 0.00",
+        "weight": -1.1242860367905667
+      },
+      {
+        "feature": "cat__state_Kuala Lumpur <= 0.00",
+        "weight": 1.0707631839544252
+      },
+      {
+        "feature": "cat__state_New South Wales <= 0.00",
+        "weight": 1.0696461262334014
+      },
+      {
+        "feature": "cat__state_Maine <= 0.00",
+        "weight": -1.0222642173294165
+      },
+      {
+        "feature": "cat__state_Mississippi <= 0.00",
+        "weight": -1.0146809923414577
+      },
+      {
+        "feature": "cat__state_Khuzestan Province <= 0.00",
+        "weight": 1.0084291269833816
+      },
+      {
+        "feature": "cat__state_Central Province <= 0.00",
+        "weight": -1.002112372849572
+      },
+      {
+        "feature": "cat__state_Karnataka <= 0.00",
+        "weight": -0.9997950918065359
+      },
+      {
+        "feature": "cat__state_Abu Dhabi Emirate <= 0.00",
+        "weight": 0.9788791569520919
+      },
+      {
+        "feature": "cat__state_Cayo District <= 0.00",
+        "weight": 0.9705249171724467
+      },
+      {
+        "feature": "cat__state_Auckland <= 0.00",
+        "weight": -0.9547406411127093
+      },
+      {
+        "feature": "cat__state_Pridnestrovie <= 0.00",
+        "weight": -0.9517990833344794
+      },
+      {
+        "feature": "cat__state_Lower Saxony <= 0.00",
+        "weight": 0.945510334298746
+      },
+      {
+        "feature": "cat__state_Meru County <= 0.00",
+        "weight": 0.9321244440880475
+      },
+      {
+        "feature": "cat__state_Karaganda Region <= 0.00",
+        "weight": -0.9084637732903905
+      },
+      {
+        "feature": "cat__state_Puerto Rico <= 0.00",
+        "weight": -0.895451079926063
+      },
+      {
+        "feature": "cat__state_Northern Region <= 0.00",
+        "weight": -0.892168060389759
+      },
+      {
+        "feature": "cat__state_Nova Scotia <= 0.00",
+        "weight": -0.8776915466330859
+      },
+      {
+        "feature": "cat__state_Itap\u00faa <= 0.00",
+        "weight": -0.8776624594140945
+      },
+      {
+        "feature": "cat__state_Tunis <= 0.00",
+        "weight": 0.8296511095147443
+      },
+      {
+        "feature": "cat__state_Rhode Island <= 0.00",
+        "weight": -0.8099895852967675
+      },
+      {
+        "feature": "cat__state_Greater Accra Region <= 0.00",
+        "weight": 0.8033039410939489
+      },
+      {
+        "feature": "cat__state_Par\u00e1 <= 0.00",
+        "weight": -0.7901924646757874
+      },
+      {
+        "feature": "cat__state_KwaZulu-Natal <= 0.00",
+        "weight": 0.7622604297686557
+      },
+      {
+        "feature": "cat__state_British Columbia <= 0.00",
+        "weight": -0.7558869533757823
+      },
+      {
+        "feature": "cat__state_Tel-Aviv District <= 0.00",
+        "weight": 0.7538974179814815
+      },
+      {
+        "feature": "cat__state_Bagamati Province <= 0.00",
+        "weight": -0.7524139735951112
+      },
+      {
+        "feature": "cat__state_Khyber Pakhtunkhwa <= 0.00",
+        "weight": -0.7439382534271113
+      },
+      {
+        "feature": "cat__state_Washington <= 0.00",
+        "weight": -0.7338168807633507
+      },
+      {
+        "feature": "cat__state_South Australia <= 0.00",
+        "weight": 0.7263304114711319
+      },
+      {
+        "feature": "cat__state_Hubei <= 0.00",
+        "weight": -0.7164386616516707
+      },
+      {
+        "feature": "cat__state_Prague <= 0.00",
+        "weight": -0.7139153071077693
+      },
+      {
+        "feature": "cat__state_Gujarat <= 0.00",
+        "weight": -0.6829007201137464
+      },
+      {
+        "feature": "cat__state_Connecticut <= 0.00",
+        "weight": -0.6661162742623848
+      },
+      {
+        "feature": "cat__state_Masovian Voivodeship <= 0.00",
+        "weight": -0.6159887314075545
+      },
+      {
+        "feature": "-0.49 < num__branch_density_10km <= 0.04",
+        "weight": -0.6080854283887824
+      },
+      {
+        "feature": "cat__state_Tripoli <= 0.00",
+        "weight": -0.6022424819671813
+      },
+      {
+        "feature": "cat__state_Cyprus <= 0.00",
+        "weight": -0.5786824848591942
+      },
+      {
+        "feature": "cat__state_Medina Province <= 0.00",
+        "weight": 0.5655229840666712
+      },
+      {
+        "feature": "cat__state_Panam\u00e1 Province <= 0.00",
+        "weight": 0.5413575013652558
+      },
+      {
+        "feature": "cat__state_Maryland > 0.00",
+        "weight": -0.5384643554416685
+      },
+      {
+        "feature": "cat__state_Shanghai <= 0.00",
+        "weight": 0.5245867219848283
+      },
+      {
+        "feature": "cat__state_Dakar Region <= 0.00",
+        "weight": 0.5109624628647376
+      },
+      {
+        "feature": "cat__state_Shandong <= 0.00",
+        "weight": -0.5107861614250641
+      },
+      {
+        "feature": "cat__state_Victoria <= 0.00",
+        "weight": -0.5064179827676168
+      },
+      {
+        "feature": "cat__state_Kogi State <= 0.00",
+        "weight": 0.5026159542250154
+      },
+      {
+        "feature": "cat__state_South Dakota <= 0.00",
+        "weight": 0.4964699026810581
+      },
+      {
+        "feature": "cat__state_Rio de Janeiro <= 0.00",
+        "weight": -0.484698674187
+      },
+      {
+        "feature": "cat__state_Northern Province <= 0.00",
+        "weight": -0.4844367936788025
+      },
+      {
+        "feature": "cat__state_Western Province <= 0.00",
+        "weight": 0.4815333174122468
+      },
+      {
+        "feature": "cat__state_Oyo State <= 0.00",
+        "weight": -0.4514692077678604
+      },
+      {
+        "feature": "cat__state_Mombasa County <= 0.00",
+        "weight": -0.43528324355943615
+      },
+      {
+        "feature": "cat__state_Hawaii <= 0.00",
+        "weight": -0.4235842394615343
+      },
+      {
+        "feature": "cat__state_Kinshasa <= 0.00",
+        "weight": -0.4055818914392297
+      },
+      {
+        "feature": "cat__state_Iowa <= 0.00",
+        "weight": 0.40204219565775007
+      },
+      {
+        "feature": "cat__state_Pennsylvania <= 0.00",
+        "weight": -0.39105674634944226
+      },
+      {
+        "feature": "cat__state_Nevada <= 0.00",
+        "weight": -0.3849525571169219
+      },
+      {
+        "feature": "cat__state_Delhi <= 0.00",
+        "weight": 0.3780527389455531
+      },
+      {
+        "feature": "cat__state_Telangana <= 0.00",
+        "weight": 0.36299429995189797
+      },
+      {
+        "feature": "cat__state_Florida <= 0.00",
+        "weight": 0.34411263183427004
+      },
+      {
+        "feature": "cat__state_Delaware <= 0.00",
+        "weight": 0.33974467184348234
+      },
+      {
+        "feature": "cat__state_Central Equatoria <= 0.00",
+        "weight": -0.33419619316604765
+      },
+      {
+        "feature": "cat__state_Oregon <= 0.00",
+        "weight": -0.3331574687315559
+      },
+      {
+        "feature": "cat__state_Queensland <= 0.00",
+        "weight": -0.3329356632775627
+      },
+      {
+        "feature": "cat__state_Ontario <= 0.00",
+        "weight": -0.3301334868862869
+      },
+      {
+        "feature": "cat__state_Ratak Chain <= 0.00",
+        "weight": -0.32971757098167065
+      },
+      {
+        "feature": "cat__state_Colorado <= 0.00",
+        "weight": -0.31705840943963554
+      },
+      {
+        "feature": "cat__state_Koshi Province <= 0.00",
+        "weight": -0.31005619498858883
+      },
+      {
+        "feature": "cat__state_North Dakota <= 0.00",
+        "weight": -0.29969891650417285
+      },
+      {
+        "feature": "cat__state_Arkansas <= 0.00",
+        "weight": 0.29725310399918936
+      },
+      {
+        "feature": "cat__state_New Brunswick <= 0.00",
+        "weight": 0.29545431520287624
+      },
+      {
+        "feature": "cat__state_Alaska <= 0.00",
+        "weight": 0.29531871111638414
+      },
+      {
+        "feature": "cat__state_New York <= 0.00",
+        "weight": 0.28581203971171315
+      },
+      {
+        "feature": "cat__state_Minnesota <= 0.00",
+        "weight": -0.26415960047324716
+      },
+      {
+        "feature": "cat__state_California <= 0.00",
+        "weight": 0.2510348514460123
+      },
+      {
+        "feature": "cat__state_New Hampshire <= 0.00",
+        "weight": 0.24588396152420253
+      },
+      {
+        "feature": "cat__state_Dhaka Division <= 0.00",
+        "weight": -0.24191523741116722
+      },
+      {
+        "feature": "cat__state_Idaho <= 0.00",
+        "weight": -0.23485633286556137
+      },
+      {
+        "feature": "cat__state_Subcarpathian Voivodeship <= 0.00",
+        "weight": 0.2308942968938759
+      },
+      {
+        "feature": "cat__state_Zomba <= 0.00",
+        "weight": 0.22645211485585234
+      },
+      {
+        "feature": "cat__state_Missouri <= 0.00",
+        "weight": -0.22513187922893793
+      },
+      {
+        "feature": "cat__state_Miranda State <= 0.00",
+        "weight": -0.2244355261418647
+      },
+      {
+        "feature": "cat__state_Louisiana <= 0.00",
+        "weight": -0.21701522785413915
+      },
+      {
+        "feature": "cat__state_Paramaribo <= 0.00",
+        "weight": 0.20198566474610136
+      },
+      {
+        "feature": "cat__state_Georgia <= 0.00",
+        "weight": -0.19577787396624163
+      },
+      {
+        "feature": "cat__state_Utah <= 0.00",
+        "weight": -0.19567257263046353
+      },
+      {
+        "feature": "-0.30 < num__latitude <= 0.18",
+        "weight": 0.18243335050537554
+      },
+      {
+        "feature": "cat__state_Western Region <= 0.00",
+        "weight": 0.18182611521616276
+      },
+      {
+        "feature": "cat__state_England <= 0.00",
+        "weight": -0.17941019098148578
+      },
+      {
+        "feature": "cat__state_Michigan <= 0.00",
+        "weight": 0.1773051565737314
+      },
+      {
+        "feature": "cat__state_Tennessee <= 0.00",
+        "weight": -0.17168251748495203
+      },
+      {
+        "feature": "cat__state_Kerala <= 0.00",
+        "weight": -0.16932339687536274
+      },
+      {
+        "feature": "cat__state_Newfoundland and Labrador <= 0.00",
+        "weight": 0.16671650515326814
+      },
+      {
+        "feature": "cat__state_Nairobi County <= 0.00",
+        "weight": -0.16185018484086808
+      },
+      {
+        "feature": "cat__state_Bulacan <= 0.00",
+        "weight": 0.15957254673398014
+      },
+      {
+        "feature": "cat__state_Scotland <= 0.00",
+        "weight": 0.15825148384403476
+      },
+      {
+        "feature": "cat__state_Saskatchewan <= 0.00",
+        "weight": 0.15792087972350674
+      },
+      {
+        "feature": "cat__state_Massachusetts <= 0.00",
+        "weight": 0.14675677944211948
+      },
+      {
+        "feature": "cat__state_Wyoming <= 0.00",
+        "weight": -0.13634806528643142
+      },
+      {
+        "feature": "cat__state_Kansas <= 0.00",
+        "weight": -0.1290607386818298
+      },
+      {
+        "feature": "-0.23 < num__log_nearest_distance <= 0.84",
+        "weight": 0.12380461463917351
+      },
+      {
+        "feature": "cat__state_Montana <= 0.00",
+        "weight": -0.12192299800917329
+      },
+      {
+        "feature": "cat__state_Illinois <= 0.00",
+        "weight": 0.12101902160434266
+      },
+      {
+        "feature": "cat__state_West Virginia <= 0.00",
+        "weight": -0.11430545650092272
+      },
+      {
+        "feature": "cat__state_Wisconsin <= 0.00",
+        "weight": -0.11077645665775275
+      },
+      {
+        "feature": "-0.12 < num__lat_lon_interaction <= 0.08",
+        "weight": -0.103842889259032
+      },
+      {
+        "feature": "cat__state_New Mexico <= 0.00",
+        "weight": -0.10224049055176107
+      },
+      {
+        "feature": "num__longitude > -0.03",
+        "weight": -0.09889166214524113
+      },
+      {
+        "feature": "cat__state_Texas <= 0.00",
+        "weight": -0.09835719376273841
+      },
+      {
+        "feature": "cat__state_Lviv Oblast <= 0.00",
+        "weight": -0.0923527143448712
+      },
+      {
+        "feature": "cat__state_Kentucky <= 0.00",
+        "weight": 0.09187650059635186
+      },
+      {
+        "feature": "cat__state_Bavaria <= 0.00",
+        "weight": -0.09074611279108544
+      },
+      {
+        "feature": "cat__state_Alabama <= 0.00",
+        "weight": 0.08650075207921329
+      },
+      {
+        "feature": "cat__state_North Carolina <= 0.00",
+        "weight": -0.08482987600120813
+      },
+      {
+        "feature": "cat__state_Stann Creek District <= 0.00",
+        "weight": 0.08435381848147719
+      },
+      {
+        "feature": "cat__state_Ternopil Oblast <= 0.00",
+        "weight": -0.08128366512993397
+      },
+      {
+        "feature": "cat__state_District of Columbia <= 0.00",
+        "weight": 0.08118232363850386
+      },
+      {
+        "feature": "cat__state_Moscow <= 0.00",
+        "weight": 0.08021970083914286
+      },
+      {
+        "feature": "cat__state_Tamil Nadu <= 0.00",
+        "weight": 0.0799414458593556
+      },
+      {
+        "feature": "cat__state_Bihar <= 0.00",
+        "weight": 0.07725641713389071
+      },
+      {
+        "feature": "cat__state_Ohio <= 0.00",
+        "weight": -0.0626078808695183
+      },
+      {
+        "feature": "cat__state_Indiana <= 0.00",
+        "weight": -0.06085523369813858
+      },
+      {
+        "feature": "cat__state_South Carolina <= 0.00",
+        "weight": -0.05484930005501563
+      },
+      {
+        "feature": "cat__state_Nebraska <= 0.00",
+        "weight": 0.04382116037076908
+      },
+      {
+        "feature": "cat__state_Hong Kong <= 0.00",
+        "weight": -0.042072594662659855
+      },
+      {
+        "feature": "cat__state_Virginia <= 0.00",
+        "weight": 0.03752474222753399
+      },
+      {
+        "feature": "cat__state_nan <= 0.00",
+        "weight": 0.02655624502589
+      },
+      {
+        "feature": "cat__state_Chelyabinsk Oblast <= 0.00",
+        "weight": 0.02398648041037668
+      },
+      {
+        "feature": "cat__state_Arizona <= 0.00",
+        "weight": 0.0123646366325565
+      },
+      {
+        "feature": "cat__state_Estuaire Province <= 0.00",
+        "weight": 0.010669526741667398
+      },
+      {
+        "feature": "cat__state_New Jersey <= 0.00",
+        "weight": 0.0033209784722748187
+      },
+      {
+        "feature": "cat__state_Oklahoma <= 0.00",
+        "weight": -0.0008895428640996317
+      },
+      {
+        "feature": "cat__state_Lumbini Province <= 0.00",
+        "weight": 0.0
+      },
+      {
+        "feature": "cat__state_Al-Najaf Governorate <= 0.00",
+        "weight": 0.0
+      },
+      {
+        "feature": "cat__state_Alberta <= 0.00",
+        "weight": 0.0
+      },
+      {
+        "feature": "cat__state_Andhra Pradesh <= 0.00",
+        "weight": 0.0
+      },
+      {
+        "feature": "cat__state_Capital District <= 0.00",
+        "weight": 0.0
+      },
+      {
+        "feature": "cat__state_United States Virgin Islands <= 0.00",
+        "weight": 0.0
+      }
+    ]
+  },
+  {
+    "index": 7,
+    "predicted_log_deposit": 26.868654251098633,
+    "explanation": [
+      {
+        "feature": "num__density_ratio > -0.05",
+        "weight": 7.504638115399494
+      },
+      {
+        "feature": "cat__state_Moscow <= 0.00",
+        "weight": 3.882591584498227
+      },
+      {
+        "feature": "cat__state_Capital District <= 0.00",
+        "weight": 2.2037313940255476
+      },
+      {
+        "feature": "cat__state_Khyber Pakhtunkhwa <= 0.00",
+        "weight": -2.1080982991889003
+      },
+      {
+        "feature": "cat__state_Gujarat <= 0.00",
+        "weight": -1.934487361750819
+      },
+      {
+        "feature": "cat__state_Kogi State <= 0.00",
+        "weight": 1.814030536354844
+      },
+      {
+        "feature": "cat__state_Western Province <= 0.00",
+        "weight": -1.8080354826144192
+      },
+      {
+        "feature": "cat__state_Dodoma Region <= 0.00",
+        "weight": -1.802096955668513
+      },
+      {
+        "feature": "cat__state_Central Region <= 0.00",
+        "weight": 1.710173660245973
+      },
+      {
+        "feature": "cat__state_Ternopil Oblast <= 0.00",
+        "weight": 1.7037184634355995
+      },
+      {
+        "feature": "cat__state_Tripoli <= 0.00",
+        "weight": -1.647801881166194
+      },
+      {
+        "feature": "cat__state_Shanghai <= 0.00",
+        "weight": -1.6093827346377325
+      },
+      {
+        "feature": "cat__state_Cyprus <= 0.00",
+        "weight": -1.5200877010631315
+      },
+      {
+        "feature": "cat__state_Miranda State <= 0.00",
+        "weight": 1.4981472949730827
+      },
+      {
+        "feature": "cat__state_Par\u00e1 <= 0.00",
+        "weight": -1.4163167309341864
+      },
+      {
+        "feature": "cat__state_Saskatchewan <= 0.00",
+        "weight": 1.406299399960834
+      },
+      {
+        "feature": "cat__state_Lviv Oblast <= 0.00",
+        "weight": 1.399426341969804
+      },
+      {
+        "feature": "cat__state_Mwanza Region <= 0.00",
+        "weight": -1.3290877028178463
+      },
+      {
+        "feature": "cat__state_Tunis <= 0.00",
+        "weight": -1.2552202249386226
+      },
+      {
+        "feature": "cat__state_Hubei <= 0.00",
+        "weight": -1.2319717501177094
+      },
+      {
+        "feature": "cat__state_Tamil Nadu <= 0.00",
+        "weight": -1.2258334559927568
+      },
+      {
+        "feature": "cat__state_Karnataka <= 0.00",
+        "weight": -1.089149718233421
+      },
+      {
+        "feature": "cat__state_Zomba <= 0.00",
+        "weight": -1.08713881251902
+      },
+      {
+        "feature": "cat__state_Saint Petersburg <= 0.00",
+        "weight": -1.0376210542688817
+      },
+      {
+        "feature": "cat__state_Puerto Rico <= 0.00",
+        "weight": 1.0345019641869022
+      },
+      {
+        "feature": "cat__state_Subcarpathian Voivodeship <= 0.00",
+        "weight": 1.024243893614169
+      },
+      {
+        "feature": "cat__state_Bagamati Province <= 0.00",
+        "weight": 0.9876439289573097
+      },
+      {
+        "feature": "cat__state_Central Equatoria <= 0.00",
+        "weight": 0.9853057505630415
+      },
+      {
+        "feature": "cat__state_Newfoundland and Labrador <= 0.00",
+        "weight": -0.9571445064690259
+      },
+      {
+        "feature": "cat__state_Vermont <= 0.00",
+        "weight": -0.9531922207449747
+      },
+      {
+        "feature": "cat__state_Aswan <= 0.00",
+        "weight": 0.9529329948388393
+      },
+      {
+        "feature": "cat__state_Chelyabinsk Oblast <= 0.00",
+        "weight": 0.9477360479944226
+      },
+      {
+        "feature": "cat__state_Northern Province <= 0.00",
+        "weight": 0.8837503018360415
+      },
+      {
+        "feature": "cat__state_Bavaria <= 0.00",
+        "weight": 0.8818113878657943
+      },
+      {
+        "feature": "cat__state_Plateau State <= 0.00",
+        "weight": 0.8761772288129074
+      },
+      {
+        "feature": "cat__state_Abu Dhabi Emirate <= 0.00",
+        "weight": -0.8231742817349648
+      },
+      {
+        "feature": "cat__state_Hong Kong <= 0.00",
+        "weight": -0.7992110630204813
+      },
+      {
+        "feature": "cat__state_Masovian Voivodeship <= 0.00",
+        "weight": 0.7917416216182713
+      },
+      {
+        "feature": "cat__state_Lambayeque <= 0.00",
+        "weight": 0.7908484909162828
+      },
+      {
+        "feature": "cat__state_Connecticut <= 0.00",
+        "weight": 0.7827714890079914
+      },
+      {
+        "feature": "cat__state_Wales <= 0.00",
+        "weight": -0.7810839218019722
+      },
+      {
+        "feature": "cat__state_Victoria <= 0.00",
+        "weight": 0.763994001424853
+      },
+      {
+        "feature": "cat__state_KwaZulu-Natal <= 0.00",
+        "weight": 0.7481138309322195
+      },
+      {
+        "feature": "cat__state_Greater Accra Region <= 0.00",
+        "weight": 0.7090633352331108
+      },
+      {
+        "feature": "cat__state_Koshi Province <= 0.00",
+        "weight": 0.6817429180071244
+      },
+      {
+        "feature": "-0.49 < num__branch_density_10km <= 0.04",
+        "weight": -0.6780137303589772
+      },
+      {
+        "feature": "cat__state_Limburg <= 0.00",
+        "weight": -0.6582394797707632
+      },
+      {
+        "feature": "cat__state_Auckland <= 0.00",
+        "weight": -0.6444392431727171
+      },
+      {
+        "feature": "cat__state_Nevada <= 0.00",
+        "weight": 0.6302205448556967
+      },
+      {
+        "feature": "cat__state_Hawaii <= 0.00",
+        "weight": -0.6288376289822906
+      },
+      {
+        "feature": "cat__state_Nova Scotia <= 0.00",
+        "weight": -0.6210493937038126
+      },
+      {
+        "feature": "cat__state_Delhi <= 0.00",
+        "weight": 0.5967701428196073
+      },
+      {
+        "feature": "cat__state_Scotland <= 0.00",
+        "weight": -0.5741728675961754
+      },
+      {
+        "feature": "cat__state_Kinshasa <= 0.00",
+        "weight": -0.5492241178767252
+      },
+      {
+        "feature": "cat__state_Central Province <= 0.00",
+        "weight": 0.5448407616009565
+      },
+      {
+        "feature": "cat__state_British Columbia <= 0.00",
+        "weight": 0.5416154316681828
+      },
+      {
+        "feature": "cat__state_Queensland <= 0.00",
+        "weight": -0.5308505035090428
+      },
+      {
+        "feature": "cat__state_Rhode Island <= 0.00",
+        "weight": -0.528514182181919
+      },
+      {
+        "feature": "cat__state_Khuzestan Province <= 0.00",
+        "weight": 0.5086085494858575
+      },
+      {
+        "feature": "cat__state_New Hampshire <= 0.00",
+        "weight": -0.4998565420381604
+      },
+      {
+        "feature": "cat__state_Delaware <= 0.00",
+        "weight": -0.497920279658084
+      },
+      {
+        "feature": "cat__state_Meru County <= 0.00",
+        "weight": -0.48840989601709733
+      },
+      {
+        "feature": "cat__state_Shandong <= 0.00",
+        "weight": -0.45690430871220183
+      },
+      {
+        "feature": "cat__state_Ratak Chain <= 0.00",
+        "weight": -0.4553404421098081
+      },
+      {
+        "feature": "cat__state_New Mexico <= 0.00",
+        "weight": 0.44944293207033054
+      },
+      {
+        "feature": "cat__state_Alberta <= 0.00",
+        "weight": -0.4399667176569854
+      },
+      {
+        "feature": "cat__state_Nairobi County <= 0.00",
+        "weight": -0.43340869018008743
+      },
+      {
+        "feature": "cat__state_Nueva Ecija <= 0.00",
+        "weight": -0.4292287549963118
+      },
+      {
+        "feature": "cat__state_Arizona <= 0.00",
+        "weight": 0.4084483574070818
+      },
+      {
+        "feature": "cat__state_Rio de Janeiro <= 0.00",
+        "weight": 0.4066737934142264
+      },
+      {
+        "feature": "cat__state_South Carolina <= 0.00",
+        "weight": 0.4028507635765507
+      },
+      {
+        "feature": "cat__state_Alaska <= 0.00",
+        "weight": 0.40166563525308285
+      },
+      {
+        "feature": "cat__state_Panam\u00e1 Province <= 0.00",
+        "weight": -0.3939103527656984
+      },
+      {
+        "feature": "cat__state_New South Wales <= 0.00",
+        "weight": -0.3877379229467606
+      },
+      {
+        "feature": "cat__state_Kuala Lumpur <= 0.00",
+        "weight": 0.37060820127251853
+      },
+      {
+        "feature": "cat__state_Pridnestrovie <= 0.00",
+        "weight": -0.3555873456089949
+      },
+      {
+        "feature": "cat__state_Northern Region <= 0.00",
+        "weight": 0.35445762541800024
+      },
+      {
+        "feature": "cat__state_California <= 0.00",
+        "weight": 0.3394636830578615
+      },
+      {
+        "feature": "cat__state_Bulacan <= 0.00",
+        "weight": -0.330981556940771
+      },
+      {
+        "feature": "cat__state_Prince Edward Island <= 0.00",
+        "weight": -0.3262410070052987
+      },
+      {
+        "feature": "cat__state_Itap\u00faa <= 0.00",
+        "weight": 0.31971905014367935
+      },
+      {
+        "feature": "cat__state_Prague <= 0.00",
+        "weight": 0.29494702706427056
+      },
+      {
+        "feature": "cat__state_Mississippi <= 0.00",
+        "weight": 0.2855210438815379
+      },
+      {
+        "feature": "cat__state_Idaho <= 0.00",
+        "weight": 0.28541725118891476
+      },
+      {
+        "feature": "cat__state_Telangana <= 0.00",
+        "weight": 0.27946906183257325
+      },
+      {
+        "feature": "cat__state_Maine <= 0.00",
+        "weight": -0.27607586796293554
+      },
+      {
+        "feature": "cat__state_Karaganda Region <= 0.00",
+        "weight": -0.2686749482849636
+      },
+      {
+        "feature": "cat__state_Makkah Region <= 0.00",
+        "weight": 0.2651898185694308
+      },
+      {
+        "feature": "cat__state_Tennessee <= 0.00",
+        "weight": -0.26161499971927665
+      },
+      {
+        "feature": "cat__state_Cayo District <= 0.00",
+        "weight": 0.24497149237987104
+      },
+      {
+        "feature": "cat__state_North Carolina <= 0.00",
+        "weight": -0.2363085915090637
+      },
+      {
+        "feature": "cat__state_Arkansas <= 0.00",
+        "weight": -0.23582811864281392
+      },
+      {
+        "feature": "cat__state_Western Region <= 0.00",
+        "weight": 0.23511888173418302
+      },
+      {
+        "feature": "cat__state_Mexico City <= 0.00",
+        "weight": 0.23109628620111364
+      },
+      {
+        "feature": "cat__state_Louisiana <= 0.00",
+        "weight": 0.21842978134909863
+      },
+      {
+        "feature": "cat__state_Illinois <= 0.00",
+        "weight": 0.21533102107084554
+      },
+      {
+        "feature": "cat__state_Massachusetts <= 0.00",
+        "weight": -0.21257212861958893
+      },
+      {
+        "feature": "cat__state_Minnesota <= 0.00",
+        "weight": 0.20635985904918525
+      },
+      {
+        "feature": "cat__state_New Jersey <= 0.00",
+        "weight": 0.2057585436318711
+      },
+      {
+        "feature": "cat__state_Medina Province <= 0.00",
+        "weight": 0.19964100170887225
+      },
+      {
+        "feature": "cat__state_Oyo State <= 0.00",
+        "weight": 0.1913594532821383
+      },
+      {
+        "feature": "cat__state_Wyoming <= 0.00",
+        "weight": 0.18269038548959252
+      },
+      {
+        "feature": "cat__state_Northern Ireland <= 0.00",
+        "weight": -0.18188727216067466
+      },
+      {
+        "feature": "cat__state_South Dakota <= 0.00",
+        "weight": -0.17928400784958265
+      },
+      {
+        "feature": "-0.12 < num__lat_lon_interaction <= 0.08",
+        "weight": 0.17465223698037477
+      },
+      {
+        "feature": "cat__state_Utah <= 0.00",
+        "weight": 0.1600946379014672
+      },
+      {
+        "feature": "cat__state_Georgia <= 0.00",
+        "weight": -0.15836456509584732
+      },
+      {
+        "feature": "cat__state_Pennsylvania <= 0.00",
+        "weight": -0.15628020429907977
+      },
+      {
+        "feature": "num__latitude <= -0.30",
+        "weight": 0.13770435618755753
+      },
+      {
+        "feature": "-0.23 < num__log_nearest_distance <= 0.84",
+        "weight": 0.1350919429674679
+      },
+      {
+        "feature": "cat__state_Lower Saxony <= 0.00",
+        "weight": -0.12744471481554595
+      },
+      {
+        "feature": "cat__state_Dhaka Division <= 0.00",
+        "weight": -0.12148478730142036
+      },
+      {
+        "feature": "cat__state_District of Columbia <= 0.00",
+        "weight": -0.11970202720298796
+      },
+      {
+        "feature": "cat__state_Oregon <= 0.00",
+        "weight": 0.11176615104644239
+      },
+      {
+        "feature": "cat__state_nan <= 0.00",
+        "weight": 0.10803400981258868
+      },
+      {
+        "feature": "cat__state_Kentucky <= 0.00",
+        "weight": -0.10343585987152526
+      },
+      {
+        "feature": "cat__state_Ohio <= 0.00",
+        "weight": -0.0961946101217673
+      },
+      {
+        "feature": "cat__state_South Australia <= 0.00",
+        "weight": -0.09201385715963979
+      },
+      {
+        "feature": "cat__state_Alabama <= 0.00",
+        "weight": 0.08733900666697296
+      },
+      {
+        "feature": "cat__state_Iowa <= 0.00",
+        "weight": -0.0803858430979609
+      },
+      {
+        "feature": "cat__state_Kansas <= 0.00",
+        "weight": -0.0801808399217753
+      },
+      {
+        "feature": "cat__state_New York <= 0.00",
+        "weight": 0.07539503612593212
+      },
+      {
+        "feature": "cat__state_Lumbini Province <= 0.00",
+        "weight": -0.06508194505584816
+      },
+      {
+        "feature": "cat__state_England <= 0.00",
+        "weight": -0.06400235513542625
+      },
+      {
+        "feature": "cat__state_New Brunswick <= 0.00",
+        "weight": -0.05970332277298957
+      },
+      {
+        "feature": "cat__state_Paramaribo <= 0.00",
+        "weight": -0.05424306497420111
+      },
+      {
+        "feature": "num__longitude <= -0.42",
+        "weight": -0.05018992867202123
+      },
+      {
+        "feature": "cat__state_Maryland <= 0.00",
+        "weight": 0.0487204221695368
+      },
+      {
+        "feature": "cat__state_West Virginia <= 0.00",
+        "weight": -0.04806418280059381
+      },
+      {
+        "feature": "cat__state_Washington <= 0.00",
+        "weight": -0.04631052136191361
+      },
+      {
+        "feature": "cat__state_Ontario <= 0.00",
+        "weight": 0.045706664129820294
+      },
+      {
+        "feature": "cat__state_Montana <= 0.00",
+        "weight": 0.03949172323908176
+      },
+      {
+        "feature": "cat__state_Missouri <= 0.00",
+        "weight": -0.038196496883079294
+      },
+      {
+        "feature": "cat__state_Wisconsin <= 0.00",
+        "weight": 0.037718567769558876
+      },
+      {
+        "feature": "cat__state_Virginia <= 0.00",
+        "weight": -0.03673957572108835
+      },
+      {
+        "feature": "cat__state_Colorado <= 0.00",
+        "weight": 0.0346580599903238
+      },
+      {
+        "feature": "cat__state_Tel-Aviv District <= 0.00",
+        "weight": -0.03382834909575603
+      },
+      {
+        "feature": "cat__state_North Dakota <= 0.00",
+        "weight": -0.03323123539531144
+      },
+      {
+        "feature": "cat__state_Indiana <= 0.00",
+        "weight": 0.02921338479737208
+      },
+      {
+        "feature": "cat__state_Kerala <= 0.00",
+        "weight": -0.02831941409383604
+      },
+      {
+        "feature": "cat__state_Michigan <= 0.00",
+        "weight": 0.028123496856682473
+      },
+      {
+        "feature": "cat__state_Nebraska <= 0.00",
+        "weight": 0.02524572298145409
+      },
+      {
+        "feature": "cat__state_Oklahoma <= 0.00",
+        "weight": 0.02363170273398426
+      },
+      {
+        "feature": "cat__state_Florida <= 0.00",
+        "weight": 0.02200394618878818
+      },
+      {
+        "feature": "cat__state_Texas > 0.00",
+        "weight": 0.01216853091935122
+      },
+      {
+        "feature": "cat__state_Andhra Pradesh <= 0.00",
+        "weight": 0.0
+      },
+      {
+        "feature": "cat__state_Bihar <= 0.00",
+        "weight": 0.0
+      },
+      {
+        "feature": "cat__state_Blantyre <= 0.00",
+        "weight": 0.0
+      },
+      {
+        "feature": "cat__state_Dakar Region <= 0.00",
+        "weight": 0.0
+      },
+      {
+        "feature": "cat__state_Stann Creek District <= 0.00",
+        "weight": 0.0
+      },
+      {
+        "feature": "cat__state_United States Virgin Islands <= 0.00",
+        "weight": 0.0
+      },
+      {
+        "feature": "cat__state_Al-Najaf Governorate <= 0.00",
+        "weight": 0.0
+      },
+      {
+        "feature": "cat__state_Mombasa County <= 0.00",
+        "weight": 0.0
+      },
+      {
+        "feature": "cat__state_Estuaire Province <= 0.00",
+        "weight": 0.0
+      }
+    ]
+  },
+  {
+    "index": 9,
+    "predicted_log_deposit": 26.672534942626953,
+    "explanation": [
+      {
+        "feature": "num__density_ratio > -0.05",
+        "weight": 7.416161325328732
+      },
+      {
+        "feature": "cat__state_Khuzestan Province <= 0.00",
+        "weight": 3.1903062739932118
+      },
+      {
+        "feature": "cat__state_Capital District <= 0.00",
+        "weight": 2.855427941766558
+      },
+      {
+        "feature": "cat__state_Mexico City <= 0.00",
+        "weight": -2.3008819955320483
+      },
+      {
+        "feature": "cat__state_Par\u00e1 <= 0.00",
+        "weight": 2.281066054297316
+      },
+      {
+        "feature": "cat__state_Saint Petersburg <= 0.00",
+        "weight": -2.2772704868633604
+      },
+      {
+        "feature": "cat__state_Bihar <= 0.00",
+        "weight": -2.007169520962077
+      },
+      {
+        "feature": "cat__state_Saskatchewan <= 0.00",
+        "weight": 1.9059617042518504
+      },
+      {
+        "feature": "cat__state_Mwanza Region <= 0.00",
+        "weight": 1.8668586807663636
+      },
+      {
+        "feature": "cat__state_Kogi State <= 0.00",
+        "weight": -1.8165047113291652
+      },
+      {
+        "feature": "cat__state_Itap\u00faa <= 0.00",
+        "weight": 1.7686845649037044
+      },
+      {
+        "feature": "cat__state_Kinshasa <= 0.00",
+        "weight": -1.743683147796968
+      },
+      {
+        "feature": "cat__state_Auckland <= 0.00",
+        "weight": -1.671636439898812
+      },
+      {
+        "feature": "cat__state_New Brunswick <= 0.00",
+        "weight": 1.6425141290028487
+      },
+      {
+        "feature": "cat__state_Central Province <= 0.00",
+        "weight": 1.6403928447218579
+      },
+      {
+        "feature": "cat__state_Miranda State <= 0.00",
+        "weight": 1.5316297964081318
+      },
+      {
+        "feature": "cat__state_KwaZulu-Natal <= 0.00",
+        "weight": -1.4781379504877705
+      },
+      {
+        "feature": "cat__state_Plateau State <= 0.00",
+        "weight": -1.437550048734423
+      },
+      {
+        "feature": "cat__state_Medina Province <= 0.00",
+        "weight": 1.4076026045133807
+      },
+      {
+        "feature": "cat__state_Tunis <= 0.00",
+        "weight": -1.3973065652602217
+      },
+      {
+        "feature": "cat__state_Western Province <= 0.00",
+        "weight": -1.3458841449752246
+      },
+      {
+        "feature": "cat__state_Makkah Region <= 0.00",
+        "weight": -1.3438376403527927
+      },
+      {
+        "feature": "cat__state_Queensland <= 0.00",
+        "weight": 1.3299387684291062
+      },
+      {
+        "feature": "cat__state_Andhra Pradesh <= 0.00",
+        "weight": -1.2608798150847031
+      },
+      {
+        "feature": "cat__state_Prague <= 0.00",
+        "weight": 1.2071201957268323
+      },
+      {
+        "feature": "cat__state_Idaho <= 0.00",
+        "weight": 1.1853366728391295
+      },
+      {
+        "feature": "cat__state_Nueva Ecija <= 0.00",
+        "weight": -1.1578314363615365
+      },
+      {
+        "feature": "cat__state_New Hampshire <= 0.00",
+        "weight": 1.1534908039574077
+      },
+      {
+        "feature": "cat__state_Nova Scotia <= 0.00",
+        "weight": -1.0942409086470741
+      },
+      {
+        "feature": "cat__state_Wales <= 0.00",
+        "weight": -1.067800789088077
+      },
+      {
+        "feature": "cat__state_Puerto Rico <= 0.00",
+        "weight": -1.0541905932747744
+      },
+      {
+        "feature": "cat__state_Prince Edward Island <= 0.00",
+        "weight": 0.9766522814232598
+      },
+      {
+        "feature": "cat__state_Western Region <= 0.00",
+        "weight": -0.9624269700016367
+      },
+      {
+        "feature": "cat__state_Hawaii <= 0.00",
+        "weight": 0.9446443487079157
+      },
+      {
+        "feature": "cat__state_Arizona <= 0.00",
+        "weight": -0.9331077340192255
+      },
+      {
+        "feature": "cat__state_Northern Ireland <= 0.00",
+        "weight": -0.9220628203526708
+      },
+      {
+        "feature": "cat__state_Dakar Region <= 0.00",
+        "weight": -0.8639418304388022
+      },
+      {
+        "feature": "cat__state_Northern Region <= 0.00",
+        "weight": -0.8516907441030689
+      },
+      {
+        "feature": "cat__state_Pridnestrovie <= 0.00",
+        "weight": 0.783556985715543
+      },
+      {
+        "feature": "cat__state_Lviv Oblast <= 0.00",
+        "weight": 0.7800694415776347
+      },
+      {
+        "feature": "cat__state_Ontario <= 0.00",
+        "weight": -0.740474556913609
+      },
+      {
+        "feature": "cat__state_Khyber Pakhtunkhwa <= 0.00",
+        "weight": -0.7301905068958056
+      },
+      {
+        "feature": "-0.62 < num__branch_density_10km <= -0.49",
+        "weight": -0.7255450716840247
+      },
+      {
+        "feature": "cat__state_Central Region <= 0.00",
+        "weight": -0.7246357372228913
+      },
+      {
+        "feature": "cat__state_Dhaka Division <= 0.00",
+        "weight": -0.6830107316419652
+      },
+      {
+        "feature": "cat__state_Moscow <= 0.00",
+        "weight": 0.6707068177157899
+      },
+      {
+        "feature": "cat__state_British Columbia <= 0.00",
+        "weight": 0.6527777700993621
+      },
+      {
+        "feature": "cat__state_Telangana <= 0.00",
+        "weight": 0.6327176893096834
+      },
+      {
+        "feature": "cat__state_South Australia <= 0.00",
+        "weight": -0.6299991899512573
+      },
+      {
+        "feature": "cat__state_Tamil Nadu <= 0.00",
+        "weight": -0.606646601874832
+      },
+      {
+        "feature": "cat__state_Abu Dhabi Emirate <= 0.00",
+        "weight": 0.5788313399049478
+      },
+      {
+        "feature": "cat__state_Mombasa County <= 0.00",
+        "weight": -0.5733006377591305
+      },
+      {
+        "feature": "cat__state_Subcarpathian Voivodeship <= 0.00",
+        "weight": 0.5708612959308862
+      },
+      {
+        "feature": "cat__state_Stann Creek District <= 0.00",
+        "weight": 0.5689849727371012
+      },
+      {
+        "feature": "cat__state_Northern Province <= 0.00",
+        "weight": 0.5688030982492691
+      },
+      {
+        "feature": "cat__state_Masovian Voivodeship <= 0.00",
+        "weight": -0.5469846403650962
+      },
+      {
+        "feature": "cat__state_Limburg <= 0.00",
+        "weight": 0.540408227599154
+      },
+      {
+        "feature": "cat__state_Scotland <= 0.00",
+        "weight": -0.5373039315563994
+      },
+      {
+        "feature": "cat__state_Montana <= 0.00",
+        "weight": -0.5243030608128445
+      },
+      {
+        "feature": "cat__state_Tel-Aviv District <= 0.00",
+        "weight": 0.5237956342802529
+      },
+      {
+        "feature": "cat__state_Oregon <= 0.00",
+        "weight": 0.5165535720313917
+      },
+      {
+        "feature": "cat__state_Rio de Janeiro <= 0.00",
+        "weight": 0.5030968628647091
+      },
+      {
+        "feature": "cat__state_Bavaria <= 0.00",
+        "weight": -0.48790426936904785
+      },
+      {
+        "feature": "cat__state_Greater Accra Region <= 0.00",
+        "weight": 0.46291574928354434
+      },
+      {
+        "feature": "cat__state_Maine <= 0.00",
+        "weight": -0.44984923380316144
+      },
+      {
+        "feature": "cat__state_Nairobi County <= 0.00",
+        "weight": 0.44245580463957696
+      },
+      {
+        "feature": "cat__state_Arkansas <= 0.00",
+        "weight": 0.4121088444603571
+      },
+      {
+        "feature": "cat__state_Hong Kong <= 0.00",
+        "weight": 0.4108935401224554
+      },
+      {
+        "feature": "cat__state_North Carolina <= 0.00",
+        "weight": 0.3970642508032191
+      },
+      {
+        "feature": "cat__state_Lambayeque <= 0.00",
+        "weight": 0.3956131643624329
+      },
+      {
+        "feature": "cat__state_Newfoundland and Labrador <= 0.00",
+        "weight": 0.34634077631366933
+      },
+      {
+        "feature": "cat__state_Nebraska <= 0.00",
+        "weight": -0.34045826403483104
+      },
+      {
+        "feature": "cat__state_Kentucky <= 0.00",
+        "weight": 0.32828287007677037
+      },
+      {
+        "feature": "cat__state_Gujarat <= 0.00",
+        "weight": 0.3207599421202463
+      },
+      {
+        "feature": "cat__state_Al-Najaf Governorate <= 0.00",
+        "weight": 0.3187855212256166
+      },
+      {
+        "feature": "cat__state_Hubei <= 0.00",
+        "weight": 0.31066310892745097
+      },
+      {
+        "feature": "cat__state_Aswan <= 0.00",
+        "weight": 0.3075198334568107
+      },
+      {
+        "feature": "cat__state_Cyprus <= 0.00",
+        "weight": 0.2875815040973757
+      },
+      {
+        "feature": "cat__state_Wyoming <= 0.00",
+        "weight": 0.2808088650059404
+      },
+      {
+        "feature": "cat__state_Ratak Chain <= 0.00",
+        "weight": 0.2754422550622742
+      },
+      {
+        "feature": "cat__state_Cayo District <= 0.00",
+        "weight": 0.2700974569006928
+      },
+      {
+        "feature": "cat__state_South Carolina <= 0.00",
+        "weight": 0.268829328906973
+      },
+      {
+        "feature": "cat__state_Illinois <= 0.00",
+        "weight": -0.25602955228001095
+      },
+      {
+        "feature": "cat__state_Bulacan <= 0.00",
+        "weight": -0.24630770396169765
+      },
+      {
+        "feature": "cat__state_Utah <= 0.00",
+        "weight": 0.2447444355125294
+      },
+      {
+        "feature": "cat__state_District of Columbia <= 0.00",
+        "weight": -0.23595372690016075
+      },
+      {
+        "feature": "cat__state_Ternopil Oblast <= 0.00",
+        "weight": -0.23436662483645526
+      },
+      {
+        "feature": "cat__state_Alabama <= 0.00",
+        "weight": -0.21406741737738708
+      },
+      {
+        "feature": "cat__state_Kerala <= 0.00",
+        "weight": -0.20869143625942058
+      },
+      {
+        "feature": "cat__state_Missouri <= 0.00",
+        "weight": -0.19901368833437313
+      },
+      {
+        "feature": "cat__state_Oklahoma <= 0.00",
+        "weight": -0.18784422563791767
+      },
+      {
+        "feature": "cat__state_Mississippi <= 0.00",
+        "weight": 0.18658210930836105
+      },
+      {
+        "feature": "cat__state_Alaska <= 0.00",
+        "weight": 0.18590847056943957
+      },
+      {
+        "feature": "cat__state_South Dakota <= 0.00",
+        "weight": -0.1766240650993797
+      },
+      {
+        "feature": "cat__state_Delaware <= 0.00",
+        "weight": -0.1678946028932474
+      },
+      {
+        "feature": "cat__state_Kansas <= 0.00",
+        "weight": 0.15945114791083126
+      },
+      {
+        "feature": "cat__state_Pennsylvania <= 0.00",
+        "weight": 0.15741926861609992
+      },
+      {
+        "feature": "cat__state_Florida <= 0.00",
+        "weight": -0.15469742529413202
+      },
+      {
+        "feature": "cat__state_Rhode Island <= 0.00",
+        "weight": -0.15300855444542993
+      },
+      {
+        "feature": "cat__state_Victoria <= 0.00",
+        "weight": -0.15215210802078108
+      },
+      {
+        "feature": "cat__state_Central Equatoria <= 0.00",
+        "weight": 0.14571542527516762
+      },
+      {
+        "feature": "cat__state_Lower Saxony <= 0.00",
+        "weight": 0.14195095457563817
+      },
+      {
+        "feature": "cat__state_North Dakota <= 0.00",
+        "weight": -0.14042322151089914
+      },
+      {
+        "feature": "cat__state_Oyo State <= 0.00",
+        "weight": -0.13924452655908026
+      },
+      {
+        "feature": "cat__state_nan <= 0.00",
+        "weight": -0.12343024340980298
+      },
+      {
+        "feature": "cat__state_Delhi <= 0.00",
+        "weight": -0.1226289313416178
+      },
+      {
+        "feature": "cat__state_Massachusetts > 0.00",
+        "weight": -0.1219720795616137
+      },
+      {
+        "feature": "cat__state_Bagamati Province <= 0.00",
+        "weight": 0.1179560636968105
+      },
+      {
+        "feature": "cat__state_Georgia <= 0.00",
+        "weight": -0.11583994083358039
+      },
+      {
+        "feature": "cat__state_West Virginia <= 0.00",
+        "weight": 0.11017381640474225
+      },
+      {
+        "feature": "cat__state_England <= 0.00",
+        "weight": -0.10704540146240263
+      },
+      {
+        "feature": "cat__state_New South Wales <= 0.00",
+        "weight": -0.10420388671693659
+      },
+      {
+        "feature": "cat__state_New York <= 0.00",
+        "weight": -0.10228902463931897
+      },
+      {
+        "feature": "cat__state_Virginia <= 0.00",
+        "weight": -0.09419156486806965
+      },
+      {
+        "feature": "cat__state_Wisconsin <= 0.00",
+        "weight": -0.09163209724974125
+      },
+      {
+        "feature": "cat__state_Iowa <= 0.00",
+        "weight": -0.09088251145679041
+      },
+      {
+        "feature": "cat__state_Dodoma Region <= 0.00",
+        "weight": 0.08088355995970968
+      },
+      {
+        "feature": "cat__state_Connecticut <= 0.00",
+        "weight": 0.08020045124856616
+      },
+      {
+        "feature": "cat__state_Chelyabinsk Oblast <= 0.00",
+        "weight": -0.07761896943948655
+      },
+      {
+        "feature": "cat__state_Maryland <= 0.00",
+        "weight": 0.06311205892381108
+      },
+      {
+        "feature": "cat__state_New Jersey <= 0.00",
+        "weight": 0.06207717735931727
+      },
+      {
+        "feature": "cat__state_Tennessee <= 0.00",
+        "weight": -0.06056674953877241
+      },
+      {
+        "feature": "cat__state_Vermont <= 0.00",
+        "weight": 0.05711154233316993
+      },
+      {
+        "feature": "cat__state_Texas <= 0.00",
+        "weight": -0.056196332850243794
+      },
+      {
+        "feature": "cat__state_Ohio <= 0.00",
+        "weight": -0.054997849416755985
+      },
+      {
+        "feature": "cat__state_Blantyre <= 0.00",
+        "weight": 0.054383572028196214
+      },
+      {
+        "feature": "num__longitude > -0.03",
+        "weight": 0.05222097900517933
+      },
+      {
+        "feature": "cat__state_Michigan <= 0.00",
+        "weight": -0.049427334437329
+      },
+      {
+        "feature": "-0.12 < num__lat_lon_interaction <= 0.08",
+        "weight": -0.046421606141594345
+      },
+      {
+        "feature": "num__log_nearest_distance <= -1.01",
+        "weight": 0.04089954989714353
+      },
+      {
+        "feature": "cat__state_Karnataka <= 0.00",
+        "weight": -0.03704561536261984
+      },
+      {
+        "feature": "cat__state_Washington <= 0.00",
+        "weight": 0.03289868708533955
+      },
+      {
+        "feature": "cat__state_New Mexico <= 0.00",
+        "weight": -0.02043820284855838
+      },
+      {
+        "feature": "cat__state_Louisiana <= 0.00",
+        "weight": -0.018493335586276683
+      },
+      {
+        "feature": "cat__state_Colorado <= 0.00",
+        "weight": 0.013699101490116636
+      },
+      {
+        "feature": "0.18 < num__latitude <= 0.48",
+        "weight": 0.013039317918100366
+      },
+      {
+        "feature": "cat__state_California <= 0.00",
+        "weight": -0.011765937991446618
+      },
+      {
+        "feature": "cat__state_Meru County <= 0.00",
+        "weight": -0.011454795687614663
+      },
+      {
+        "feature": "cat__state_Minnesota <= 0.00",
+        "weight": 0.00920772137437132
+      },
+      {
+        "feature": "cat__state_Indiana <= 0.00",
+        "weight": -0.003512049014848534
+      },
+      {
+        "feature": "cat__state_Nevada <= 0.00",
+        "weight": 0.0003260054864997047
+      },
+      {
+        "feature": "cat__state_Alberta <= 0.00",
+        "weight": 0.0
+      },
+      {
+        "feature": "cat__state_Panam\u00e1 Province <= 0.00",
+        "weight": 0.0
+      },
+      {
+        "feature": "cat__state_Tripoli <= 0.00",
+        "weight": 0.0
+      },
+      {
+        "feature": "cat__state_Kuala Lumpur <= 0.00",
+        "weight": 0.0
+      },
+      {
+        "feature": "cat__state_United States Virgin Islands <= 0.00",
+        "weight": 0.0
+      },
+      {
+        "feature": "cat__state_Lumbini Province <= 0.00",
+        "weight": 0.0
+      },
+      {
+        "feature": "cat__state_Paramaribo <= 0.00",
+        "weight": 0.0
+      },
+      {
+        "feature": "cat__state_Shanghai <= 0.00",
+        "weight": 0.0
+      },
+      {
+        "feature": "cat__state_Estuaire Province <= 0.00",
+        "weight": 0.0
+      },
+      {
+        "feature": "cat__state_Koshi Province <= 0.00",
+        "weight": 0.0
+      },
+      {
+        "feature": "cat__state_Shandong <= 0.00",
+        "weight": 0.0
+      },
+      {
+        "feature": "cat__state_Karaganda Region <= 0.00",
+        "weight": 0.0
+      },
+      {
+        "feature": "cat__state_Zomba <= 0.00",
+        "weight": 0.0
+      }
+    ]
+  },
+  {
+    "index": 11,
+    "predicted_log_deposit": 26.581483840942383,
+    "explanation": [
+      {
+        "feature": "num__density_ratio > -0.05",
+        "weight": 7.626006456671941
+      },
+      {
+        "feature": "cat__state_Mexico City <= 0.00",
+        "weight": 3.6140393214202415
+      },
+      {
+        "feature": "cat__state_Stann Creek District <= 0.00",
+        "weight": 2.81394960501714
+      },
+      {
+        "feature": "cat__state_Abu Dhabi Emirate <= 0.00",
+        "weight": -2.33693383077369
+      },
+      {
+        "feature": "cat__state_Saint Petersburg <= 0.00",
+        "weight": -2.0225104166396632
+      },
+      {
+        "feature": "cat__state_Masovian Voivodeship <= 0.00",
+        "weight": -2.0067958464780755
+      },
+      {
+        "feature": "cat__state_Scotland <= 0.00",
+        "weight": 1.9914289895135775
+      },
+      {
+        "feature": "cat__state_Mombasa County <= 0.00",
+        "weight": 1.944383823875119
+      },
+      {
+        "feature": "cat__state_Shanghai <= 0.00",
+        "weight": 1.9153332403397234
+      },
+      {
+        "feature": "cat__state_Miranda State <= 0.00",
+        "weight": -1.8802810818772175
+      },
+      {
+        "feature": "cat__state_Dodoma Region <= 0.00",
+        "weight": 1.83212605155775
+      },
+      {
+        "feature": "cat__state_Meru County <= 0.00",
+        "weight": -1.7470249152245154
+      },
+      {
+        "feature": "cat__state_Bulacan <= 0.00",
+        "weight": 1.7044907171120156
+      },
+      {
+        "feature": "cat__state_Estuaire Province <= 0.00",
+        "weight": 1.6336908035095832
+      },
+      {
+        "feature": "cat__state_Prince Edward Island <= 0.00",
+        "weight": 1.558855633235543
+      },
+      {
+        "feature": "cat__state_Ternopil Oblast <= 0.00",
+        "weight": -1.5544718780068367
+      },
+      {
+        "feature": "cat__state_Puerto Rico <= 0.00",
+        "weight": -1.451410096781975
+      },
+      {
+        "feature": "cat__state_Medina Province <= 0.00",
+        "weight": -1.3501317833485114
+      },
+      {
+        "feature": "cat__state_Tel-Aviv District <= 0.00",
+        "weight": -1.2833721504701543
+      },
+      {
+        "feature": "cat__state_Limburg <= 0.00",
+        "weight": -1.2783966113768752
+      },
+      {
+        "feature": "cat__state_Kinshasa <= 0.00",
+        "weight": -1.2683789213450243
+      },
+      {
+        "feature": "cat__state_Central Equatoria <= 0.00",
+        "weight": -1.2459032761740074
+      },
+      {
+        "feature": "cat__state_Nueva Ecija <= 0.00",
+        "weight": 1.194289436900984
+      },
+      {
+        "feature": "cat__state_Central Province <= 0.00",
+        "weight": 1.1474175724934548
+      },
+      {
+        "feature": "cat__state_Oyo State <= 0.00",
+        "weight": -1.1067978219221288
+      },
+      {
+        "feature": "cat__state_Itap\u00faa <= 0.00",
+        "weight": 1.0975953704417016
+      },
+      {
+        "feature": "cat__state_Rio de Janeiro <= 0.00",
+        "weight": -1.0552691102426521
+      },
+      {
+        "feature": "cat__state_Panam\u00e1 Province <= 0.00",
+        "weight": 1.0338568576233107
+      },
+      {
+        "feature": "cat__state_Koshi Province <= 0.00",
+        "weight": 1.0221854869372953
+      },
+      {
+        "feature": "cat__state_Mwanza Region <= 0.00",
+        "weight": 0.9646817456331114
+      },
+      {
+        "feature": "cat__state_Wales <= 0.00",
+        "weight": 0.9575601206057409
+      },
+      {
+        "feature": "cat__state_Makkah Region <= 0.00",
+        "weight": -0.9533431093726821
+      },
+      {
+        "feature": "cat__state_Tripoli <= 0.00",
+        "weight": -0.9461727130757144
+      },
+      {
+        "feature": "cat__state_Kuala Lumpur <= 0.00",
+        "weight": -0.9264007548779419
+      },
+      {
+        "feature": "cat__state_Cayo District <= 0.00",
+        "weight": -0.8837333238500049
+      },
+      {
+        "feature": "cat__state_Gujarat <= 0.00",
+        "weight": -0.8810268037281934
+      },
+      {
+        "feature": "cat__state_Moscow <= 0.00",
+        "weight": 0.8799799560468378
+      },
+      {
+        "feature": "cat__state_New Brunswick <= 0.00",
+        "weight": 0.8561896452245008
+      },
+      {
+        "feature": "cat__state_Queensland <= 0.00",
+        "weight": -0.8538194339128969
+      },
+      {
+        "feature": "cat__state_Auckland <= 0.00",
+        "weight": -0.8533929029575754
+      },
+      {
+        "feature": "cat__state_Khyber Pakhtunkhwa <= 0.00",
+        "weight": -0.8222055130804705
+      },
+      {
+        "feature": "cat__state_Wyoming <= 0.00",
+        "weight": 0.8165704431810274
+      },
+      {
+        "feature": "cat__state_Chelyabinsk Oblast <= 0.00",
+        "weight": 0.7842838927067448
+      },
+      {
+        "feature": "cat__state_District of Columbia <= 0.00",
+        "weight": 0.7828202644499799
+      },
+      {
+        "feature": "cat__state_Montana <= 0.00",
+        "weight": 0.7732182153863776
+      },
+      {
+        "feature": "cat__state_Paramaribo <= 0.00",
+        "weight": 0.7652282067445711
+      },
+      {
+        "feature": "cat__state_Northern Province <= 0.00",
+        "weight": -0.747044756393458
+      },
+      {
+        "feature": "cat__state_Rhode Island <= 0.00",
+        "weight": 0.7425200691343725
+      },
+      {
+        "feature": "cat__state_Victoria <= 0.00",
+        "weight": 0.7335264465504222
+      },
+      {
+        "feature": "cat__state_North Dakota <= 0.00",
+        "weight": 0.6871275121579373
+      },
+      {
+        "feature": "cat__state_Telangana <= 0.00",
+        "weight": 0.6863138322031981
+      },
+      {
+        "feature": "num__log_nearest_distance > 0.84",
+        "weight": -0.6607584119948109
+      },
+      {
+        "feature": "cat__state_Bavaria <= 0.00",
+        "weight": 0.6443221273568491
+      },
+      {
+        "feature": "cat__state_Maryland <= 0.00",
+        "weight": -0.6349097788936657
+      },
+      {
+        "feature": "cat__state_New South Wales <= 0.00",
+        "weight": -0.6071570200774075
+      },
+      {
+        "feature": "cat__state_South Australia <= 0.00",
+        "weight": 0.5991086447444643
+      },
+      {
+        "feature": "cat__state_Northern Ireland <= 0.00",
+        "weight": -0.5809095754390076
+      },
+      {
+        "feature": "cat__state_Lumbini Province <= 0.00",
+        "weight": 0.5702476553034552
+      },
+      {
+        "feature": "cat__state_Al-Najaf Governorate <= 0.00",
+        "weight": -0.5591991677764535
+      },
+      {
+        "feature": "cat__state_Tamil Nadu <= 0.00",
+        "weight": 0.5390769369717584
+      },
+      {
+        "feature": "cat__state_Delaware <= 0.00",
+        "weight": -0.5284122553039702
+      },
+      {
+        "feature": "cat__state_Western Region <= 0.00",
+        "weight": -0.527811945160189
+      },
+      {
+        "feature": "cat__state_Lower Saxony <= 0.00",
+        "weight": -0.5214438325376036
+      },
+      {
+        "feature": "cat__state_Hong Kong <= 0.00",
+        "weight": -0.5128263433228492
+      },
+      {
+        "feature": "cat__state_Nevada <= 0.00",
+        "weight": 0.5122397937838078
+      },
+      {
+        "feature": "cat__state_Arizona <= 0.00",
+        "weight": 0.5075220179843276
+      },
+      {
+        "feature": "cat__state_Saskatchewan <= 0.00",
+        "weight": -0.4827739920093506
+      },
+      {
+        "feature": "cat__state_Nova Scotia <= 0.00",
+        "weight": -0.4740368509468312
+      },
+      {
+        "feature": "cat__state_Shandong <= 0.00",
+        "weight": 0.4521788142474174
+      },
+      {
+        "feature": "cat__state_Maine <= 0.00",
+        "weight": -0.43377289910842354
+      },
+      {
+        "feature": "cat__state_Kerala <= 0.00",
+        "weight": 0.42861100832509313
+      },
+      {
+        "feature": "cat__state_Lambayeque <= 0.00",
+        "weight": 0.4283864265506899
+      },
+      {
+        "feature": "cat__state_Dhaka Division <= 0.00",
+        "weight": -0.42358574628563267
+      },
+      {
+        "feature": "cat__state_Western Province <= 0.00",
+        "weight": 0.4224601622602912
+      },
+      {
+        "feature": "cat__state_Central Region <= 0.00",
+        "weight": 0.4202796908611134
+      },
+      {
+        "feature": "cat__state_Par\u00e1 <= 0.00",
+        "weight": 0.38585845932236484
+      },
+      {
+        "feature": "cat__state_Alberta > 0.00",
+        "weight": -0.3691182041174235
+      },
+      {
+        "feature": "cat__state_Kogi State <= 0.00",
+        "weight": -0.3644657662586938
+      },
+      {
+        "feature": "cat__state_Bagamati Province <= 0.00",
+        "weight": 0.3492286561645633
+      },
+      {
+        "feature": "cat__state_New Mexico <= 0.00",
+        "weight": 0.345705163760168
+      },
+      {
+        "feature": "num__branch_density_10km <= -0.62",
+        "weight": -0.3443184391511056
+      },
+      {
+        "feature": "cat__state_Ohio <= 0.00",
+        "weight": -0.33279876668034813
+      },
+      {
+        "feature": "cat__state_Alabama <= 0.00",
+        "weight": -0.33073231473021375
+      },
+      {
+        "feature": "cat__state_Delhi <= 0.00",
+        "weight": -0.3280623746591564
+      },
+      {
+        "feature": "cat__state_New Hampshire <= 0.00",
+        "weight": 0.32226642578608977
+      },
+      {
+        "feature": "cat__state_Colorado <= 0.00",
+        "weight": 0.3207063608203434
+      },
+      {
+        "feature": "cat__state_Pennsylvania <= 0.00",
+        "weight": 0.2952097915849596
+      },
+      {
+        "feature": "cat__state_Newfoundland and Labrador <= 0.00",
+        "weight": 0.2869316518223292
+      },
+      {
+        "feature": "cat__state_Indiana <= 0.00",
+        "weight": -0.27984517178801926
+      },
+      {
+        "feature": "cat__state_Arkansas <= 0.00",
+        "weight": 0.279839478015851
+      },
+      {
+        "feature": "cat__state_New Jersey <= 0.00",
+        "weight": 0.271886584639947
+      },
+      {
+        "feature": "cat__state_South Dakota <= 0.00",
+        "weight": 0.2697982745317269
+      },
+      {
+        "feature": "cat__state_Zomba <= 0.00",
+        "weight": -0.26055360961643587
+      },
+      {
+        "feature": "cat__state_Blantyre <= 0.00",
+        "weight": -0.2591444034715691
+      },
+      {
+        "feature": "cat__state_Utah <= 0.00",
+        "weight": 0.24318173273492208
+      },
+      {
+        "feature": "cat__state_Virginia <= 0.00",
+        "weight": -0.24191779343116881
+      },
+      {
+        "feature": "cat__state_Capital District <= 0.00",
+        "weight": 0.2242831328939884
+      },
+      {
+        "feature": "cat__state_Idaho <= 0.00",
+        "weight": -0.21590868554459341
+      },
+      {
+        "feature": "cat__state_Washington <= 0.00",
+        "weight": 0.2137917579577533
+      },
+      {
+        "feature": "cat__state_Karnataka <= 0.00",
+        "weight": 0.20616192801437994
+      },
+      {
+        "feature": "cat__state_Kentucky <= 0.00",
+        "weight": 0.20608775223152562
+      },
+      {
+        "feature": "cat__state_Kansas <= 0.00",
+        "weight": 0.2049325864941816
+      },
+      {
+        "feature": "cat__state_New York <= 0.00",
+        "weight": -0.2020161129304298
+      },
+      {
+        "feature": "cat__state_Tunis <= 0.00",
+        "weight": 0.19114845679084028
+      },
+      {
+        "feature": "cat__state_Nairobi County <= 0.00",
+        "weight": -0.17952294816743553
+      },
+      {
+        "feature": "cat__state_Oklahoma <= 0.00",
+        "weight": 0.17811484871058034
+      },
+      {
+        "feature": "cat__state_Connecticut <= 0.00",
+        "weight": -0.17746734791655272
+      },
+      {
+        "feature": "cat__state_Georgia <= 0.00",
+        "weight": -0.17376209879841908
+      },
+      {
+        "feature": "cat__state_Minnesota <= 0.00",
+        "weight": -0.1679741520486537
+      },
+      {
+        "feature": "cat__state_Plateau State <= 0.00",
+        "weight": -0.16770467411197504
+      },
+      {
+        "feature": "cat__state_Illinois <= 0.00",
+        "weight": -0.1654511106280234
+      },
+      {
+        "feature": "cat__state_Texas <= 0.00",
+        "weight": -0.16050310354145175
+      },
+      {
+        "feature": "num__lat_lon_interaction <= -0.48",
+        "weight": 0.15036134962054024
+      },
+      {
+        "feature": "cat__state_England <= 0.00",
+        "weight": -0.1408399419427444
+      },
+      {
+        "feature": "cat__state_Alaska <= 0.00",
+        "weight": -0.1367449793251427
+      },
+      {
+        "feature": "cat__state_South Carolina <= 0.00",
+        "weight": -0.13546747399984263
+      },
+      {
+        "feature": "cat__state_Massachusetts <= 0.00",
+        "weight": 0.13204790869524818
+      },
+      {
+        "feature": "cat__state_Iowa <= 0.00",
+        "weight": -0.12928001394393787
+      },
+      {
+        "feature": "cat__state_Michigan <= 0.00",
+        "weight": 0.1228428534479793
+      },
+      {
+        "feature": "cat__state_West Virginia <= 0.00",
+        "weight": -0.11687872131762775
+      },
+      {
+        "feature": "cat__state_Louisiana <= 0.00",
+        "weight": 0.11651415768002057
+      },
+      {
+        "feature": "cat__state_Hawaii <= 0.00",
+        "weight": -0.11239077886987012
+      },
+      {
+        "feature": "num__latitude > 0.48",
+        "weight": -0.10790945811048068
+      },
+      {
+        "feature": "cat__state_Ontario <= 0.00",
+        "weight": 0.1075073060940319
+      },
+      {
+        "feature": "cat__state_Tennessee <= 0.00",
+        "weight": -0.10230842548994498
+      },
+      {
+        "feature": "cat__state_Florida <= 0.00",
+        "weight": 0.10042464842969084
+      },
+      {
+        "feature": "cat__state_Subcarpathian Voivodeship <= 0.00",
+        "weight": 0.09632619244871733
+      },
+      {
+        "feature": "cat__state_Hubei <= 0.00",
+        "weight": 0.08345644888280138
+      },
+      {
+        "feature": "cat__state_Nebraska <= 0.00",
+        "weight": -0.08122860336209539
+      },
+      {
+        "feature": "cat__state_Greater Accra Region <= 0.00",
+        "weight": -0.0765943745652392
+      },
+      {
+        "feature": "cat__state_Wisconsin <= 0.00",
+        "weight": 0.06924842716704346
+      },
+      {
+        "feature": "cat__state_Khuzestan Province <= 0.00",
+        "weight": 0.06197879743809706
+      },
+      {
+        "feature": "cat__state_Missouri <= 0.00",
+        "weight": 0.060696453132266244
+      },
+      {
+        "feature": "num__longitude <= -0.42",
+        "weight": -0.0522967830242149
+      },
+      {
+        "feature": "cat__state_Karaganda Region <= 0.00",
+        "weight": 0.045072996294300026
+      },
+      {
+        "feature": "cat__state_Vermont <= 0.00",
+        "weight": -0.04206140309523357
+      },
+      {
+        "feature": "cat__state_KwaZulu-Natal <= 0.00",
+        "weight": 0.022141802583734913
+      },
+      {
+        "feature": "cat__state_California <= 0.00",
+        "weight": 0.021788021055772683
+      },
+      {
+        "feature": "cat__state_Mississippi <= 0.00",
+        "weight": -0.020063567502919228
+      },
+      {
+        "feature": "cat__state_Pridnestrovie <= 0.00",
+        "weight": 0.02005833658570703
+      },
+      {
+        "feature": "cat__state_Oregon <= 0.00",
+        "weight": 0.017683173921030398
+      },
+      {
+        "feature": "cat__state_nan <= 0.00",
+        "weight": 0.009368818012566785
+      },
+      {
+        "feature": "cat__state_North Carolina <= 0.00",
+        "weight": -0.004883444944841908
+      },
+      {
+        "feature": "cat__state_British Columbia <= 0.00",
+        "weight": 0.002853744710603857
+      },
+      {
+        "feature": "cat__state_Prague <= 0.00",
+        "weight": 0.0
+      },
+      {
+        "feature": "cat__state_Bihar <= 0.00",
+        "weight": 0.0
+      },
+      {
+        "feature": "cat__state_Aswan <= 0.00",
+        "weight": 0.0
+      },
+      {
+        "feature": "cat__state_Cyprus <= 0.00",
+        "weight": 0.0
+      },
+      {
+        "feature": "cat__state_United States Virgin Islands <= 0.00",
+        "weight": 0.0
+      },
+      {
+        "feature": "cat__state_Dakar Region <= 0.00",
+        "weight": 0.0
+      },
+      {
+        "feature": "cat__state_Ratak Chain <= 0.00",
+        "weight": 0.0
+      },
+      {
+        "feature": "cat__state_Lviv Oblast <= 0.00",
+        "weight": 0.0
+      },
+      {
+        "feature": "cat__state_Northern Region <= 0.00",
+        "weight": 0.0
+      },
+      {
+        "feature": "cat__state_Andhra Pradesh <= 0.00",
+        "weight": 0.0
+      }
+    ]
+  },
+  {
+    "index": 8,
+    "predicted_log_deposit": 26.430530548095703,
+    "explanation": [
+      {
+        "feature": "num__density_ratio > -0.05",
+        "weight": 7.480282396535207
+      },
+      {
+        "feature": "cat__state_Prague <= 0.00",
+        "weight": 3.374309843702935
+      },
+      {
+        "feature": "cat__state_Khyber Pakhtunkhwa <= 0.00",
+        "weight": -2.377804894085955
+      },
+      {
+        "feature": "cat__state_Victoria <= 0.00",
+        "weight": -2.20376120091688
+      },
+      {
+        "feature": "cat__state_Bavaria <= 0.00",
+        "weight": 2.138347437429673
+      },
+      {
+        "feature": "cat__state_Rhode Island <= 0.00",
+        "weight": -2.083163085475966
+      },
+      {
+        "feature": "cat__state_Karnataka <= 0.00",
+        "weight": -1.9564631201925902
+      },
+      {
+        "feature": "cat__state_Kogi State <= 0.00",
+        "weight": -1.8111823044950317
+      },
+      {
+        "feature": "cat__state_Kuala Lumpur <= 0.00",
+        "weight": -1.6604213116365611
+      },
+      {
+        "feature": "cat__state_Central Equatoria <= 0.00",
+        "weight": 1.5909058701303365
+      },
+      {
+        "feature": "num__branch_density_10km > 0.04",
+        "weight": 1.5218620826468676
+      },
+      {
+        "feature": "cat__state_Northern Province <= 0.00",
+        "weight": -1.3594970157242379
+      },
+      {
+        "feature": "cat__state_Al-Najaf Governorate <= 0.00",
+        "weight": -1.3328966388738925
+      },
+      {
+        "feature": "cat__state_Meru County <= 0.00",
+        "weight": 1.2808717208897473
+      },
+      {
+        "feature": "cat__state_Ratak Chain <= 0.00",
+        "weight": 1.2683597916175169
+      },
+      {
+        "feature": "cat__state_Chelyabinsk Oblast <= 0.00",
+        "weight": 1.25763507871997
+      },
+      {
+        "feature": "cat__state_Oregon <= 0.00",
+        "weight": 1.2211325839167664
+      },
+      {
+        "feature": "cat__state_Par\u00e1 <= 0.00",
+        "weight": -1.1142882623585553
+      },
+      {
+        "feature": "cat__state_New Brunswick <= 0.00",
+        "weight": -1.090447342197702
+      },
+      {
+        "feature": "cat__state_Blantyre <= 0.00",
+        "weight": -1.085986386527602
+      },
+      {
+        "feature": "cat__state_Hubei <= 0.00",
+        "weight": -1.0525408325174288
+      },
+      {
+        "feature": "cat__state_Nova Scotia <= 0.00",
+        "weight": 1.0359213621548096
+      },
+      {
+        "feature": "cat__state_Western Province <= 0.00",
+        "weight": 1.0290923199186008
+      },
+      {
+        "feature": "cat__state_Capital District <= 0.00",
+        "weight": 1.0162422391394588
+      },
+      {
+        "feature": "cat__state_Lambayeque <= 0.00",
+        "weight": 0.9925163993790845
+      },
+      {
+        "feature": "cat__state_Puerto Rico <= 0.00",
+        "weight": -0.9810645590831789
+      },
+      {
+        "feature": "cat__state_Andhra Pradesh <= 0.00",
+        "weight": -0.9800007740831091
+      },
+      {
+        "feature": "cat__state_Newfoundland and Labrador <= 0.00",
+        "weight": 0.9502659131978135
+      },
+      {
+        "feature": "cat__state_Alberta <= 0.00",
+        "weight": 0.9491671179361166
+      },
+      {
+        "feature": "cat__state_Connecticut <= 0.00",
+        "weight": -0.9247918153949516
+      },
+      {
+        "feature": "cat__state_Shanghai <= 0.00",
+        "weight": -0.9056248701646538
+      },
+      {
+        "feature": "cat__state_Kerala <= 0.00",
+        "weight": -0.8251104453055175
+      },
+      {
+        "feature": "cat__state_Wyoming <= 0.00",
+        "weight": 0.7688572855291482
+      },
+      {
+        "feature": "cat__state_Oyo State <= 0.00",
+        "weight": 0.7595438033183236
+      },
+      {
+        "feature": "cat__state_Miranda State <= 0.00",
+        "weight": -0.7407611075808489
+      },
+      {
+        "feature": "cat__state_Central Region <= 0.00",
+        "weight": -0.7145570792749689
+      },
+      {
+        "feature": "cat__state_Estuaire Province <= 0.00",
+        "weight": 0.7022700078887862
+      },
+      {
+        "feature": "cat__state_Mexico City <= 0.00",
+        "weight": 0.6993032886194809
+      },
+      {
+        "feature": "cat__state_Itap\u00faa <= 0.00",
+        "weight": 0.6811132414355402
+      },
+      {
+        "feature": "cat__state_Cayo District <= 0.00",
+        "weight": -0.6688829438257193
+      },
+      {
+        "feature": "cat__state_Plateau State <= 0.00",
+        "weight": -0.6426013159729853
+      },
+      {
+        "feature": "cat__state_Paramaribo <= 0.00",
+        "weight": -0.6191992047757559
+      },
+      {
+        "feature": "cat__state_Washington <= 0.00",
+        "weight": -0.5988102115851203
+      },
+      {
+        "feature": "cat__state_Shandong <= 0.00",
+        "weight": 0.5924203479377869
+      },
+      {
+        "feature": "cat__state_Delaware <= 0.00",
+        "weight": 0.5881891890335944
+      },
+      {
+        "feature": "cat__state_Northern Region <= 0.00",
+        "weight": 0.5876958506122153
+      },
+      {
+        "feature": "cat__state_Dhaka Division <= 0.00",
+        "weight": 0.5796636524092635
+      },
+      {
+        "feature": "cat__state_Maryland <= 0.00",
+        "weight": 0.5760009494823003
+      },
+      {
+        "feature": "cat__state_Lumbini Province <= 0.00",
+        "weight": 0.5497073582260618
+      },
+      {
+        "feature": "cat__state_Pridnestrovie <= 0.00",
+        "weight": -0.549377175758544
+      },
+      {
+        "feature": "cat__state_Medina Province <= 0.00",
+        "weight": 0.5095000766236794
+      },
+      {
+        "feature": "cat__state_Mwanza Region <= 0.00",
+        "weight": -0.5081444350570121
+      },
+      {
+        "feature": "cat__state_Hong Kong <= 0.00",
+        "weight": -0.4958282229491102
+      },
+      {
+        "feature": "cat__state_South Australia <= 0.00",
+        "weight": -0.48639706014692136
+      },
+      {
+        "feature": "cat__state_North Dakota <= 0.00",
+        "weight": 0.4847364680687259
+      },
+      {
+        "feature": "cat__state_New Mexico <= 0.00",
+        "weight": 0.4792592948336383
+      },
+      {
+        "feature": "cat__state_Nueva Ecija <= 0.00",
+        "weight": 0.47141831766916764
+      },
+      {
+        "feature": "cat__state_Arizona <= 0.00",
+        "weight": -0.458020423194708
+      },
+      {
+        "feature": "cat__state_Dodoma Region <= 0.00",
+        "weight": -0.43342796376277776
+      },
+      {
+        "feature": "cat__state_Aswan <= 0.00",
+        "weight": -0.40539263894813726
+      },
+      {
+        "feature": "cat__state_New Hampshire <= 0.00",
+        "weight": -0.40452153740169916
+      },
+      {
+        "feature": "cat__state_Prince Edward Island <= 0.00",
+        "weight": 0.3957457224194265
+      },
+      {
+        "feature": "cat__state_Northern Ireland <= 0.00",
+        "weight": -0.3926296099721245
+      },
+      {
+        "feature": "cat__state_Masovian Voivodeship <= 0.00",
+        "weight": -0.38899859061319675
+      },
+      {
+        "feature": "cat__state_Auckland <= 0.00",
+        "weight": 0.3880352698222918
+      },
+      {
+        "feature": "cat__state_Maine <= 0.00",
+        "weight": -0.385368223221609
+      },
+      {
+        "feature": "cat__state_Abu Dhabi Emirate <= 0.00",
+        "weight": -0.38444448937999115
+      },
+      {
+        "feature": "cat__state_Alaska <= 0.00",
+        "weight": 0.3767163057354698
+      },
+      {
+        "feature": "cat__state_Nevada <= 0.00",
+        "weight": -0.3762798302895368
+      },
+      {
+        "feature": "cat__state_Kentucky <= 0.00",
+        "weight": -0.37361568368258546
+      },
+      {
+        "feature": "cat__state_Vermont <= 0.00",
+        "weight": 0.35494062125228204
+      },
+      {
+        "feature": "cat__state_Greater Accra Region <= 0.00",
+        "weight": 0.3390876219056574
+      },
+      {
+        "feature": "cat__state_Kinshasa <= 0.00",
+        "weight": 0.33393878958141243
+      },
+      {
+        "feature": "cat__state_Lviv Oblast <= 0.00",
+        "weight": 0.3334694878573049
+      },
+      {
+        "feature": "cat__state_Utah <= 0.00",
+        "weight": -0.3315336553068528
+      },
+      {
+        "feature": "cat__state_Wales <= 0.00",
+        "weight": -0.33010524582001993
+      },
+      {
+        "feature": "cat__state_Oklahoma <= 0.00",
+        "weight": 0.32681213296805667
+      },
+      {
+        "feature": "cat__state_Idaho <= 0.00",
+        "weight": 0.32467185446056895
+      },
+      {
+        "feature": "cat__state_Massachusetts <= 0.00",
+        "weight": 0.29371784276932833
+      },
+      {
+        "feature": "cat__state_Indiana <= 0.00",
+        "weight": -0.2901263851071763
+      },
+      {
+        "feature": "cat__state_Makkah Region <= 0.00",
+        "weight": 0.28734136156738765
+      },
+      {
+        "feature": "cat__state_Colorado <= 0.00",
+        "weight": -0.2670297990608398
+      },
+      {
+        "feature": "cat__state_Zomba <= 0.00",
+        "weight": -0.2324355455252919
+      },
+      {
+        "feature": "cat__state_Tunis <= 0.00",
+        "weight": -0.23209865691584047
+      },
+      {
+        "feature": "cat__state_Limburg <= 0.00",
+        "weight": -0.22213734058721382
+      },
+      {
+        "feature": "cat__state_Pennsylvania <= 0.00",
+        "weight": -0.21202729990818608
+      },
+      {
+        "feature": "cat__state_Iowa <= 0.00",
+        "weight": 0.2107821712194718
+      },
+      {
+        "feature": "cat__state_South Carolina <= 0.00",
+        "weight": 0.20247847499484495
+      },
+      {
+        "feature": "cat__state_Arkansas <= 0.00",
+        "weight": 0.19912666264250287
+      },
+      {
+        "feature": "cat__state_Western Region <= 0.00",
+        "weight": -0.19669821979767926
+      },
+      {
+        "feature": "cat__state_Virginia <= 0.00",
+        "weight": 0.19510965199842922
+      },
+      {
+        "feature": "cat__state_New Jersey <= 0.00",
+        "weight": -0.18923406237176083
+      },
+      {
+        "feature": "cat__state_Mississippi <= 0.00",
+        "weight": -0.18176225298174475
+      },
+      {
+        "feature": "cat__state_Scotland <= 0.00",
+        "weight": 0.18101575878277698
+      },
+      {
+        "feature": "cat__state_Kansas <= 0.00",
+        "weight": -0.1792931418467855
+      },
+      {
+        "feature": "cat__state_KwaZulu-Natal <= 0.00",
+        "weight": 0.17687620156911946
+      },
+      {
+        "feature": "cat__state_Nebraska <= 0.00",
+        "weight": -0.17535987987158586
+      },
+      {
+        "feature": "cat__state_New York <= 0.00",
+        "weight": -0.17348757235967388
+      },
+      {
+        "feature": "num__log_nearest_distance <= -1.01",
+        "weight": 0.16990356312289068
+      },
+      {
+        "feature": "cat__state_South Dakota <= 0.00",
+        "weight": 0.16358500818688632
+      },
+      {
+        "feature": "cat__state_British Columbia <= 0.00",
+        "weight": 0.16163255377142763
+      },
+      {
+        "feature": "cat__state_Montana <= 0.00",
+        "weight": 0.15787940512204698
+      },
+      {
+        "feature": "cat__state_Khuzestan Province <= 0.00",
+        "weight": 0.15655917970407102
+      },
+      {
+        "feature": "cat__state_Ohio <= 0.00",
+        "weight": -0.15473944485247493
+      },
+      {
+        "feature": "cat__state_Tamil Nadu <= 0.00",
+        "weight": 0.1433388994365738
+      },
+      {
+        "feature": "cat__state_Ontario <= 0.00",
+        "weight": -0.141416418647251
+      },
+      {
+        "feature": "cat__state_United States Virgin Islands <= 0.00",
+        "weight": 0.1343844304403815
+      },
+      {
+        "feature": "cat__state_Panam\u00e1 Province <= 0.00",
+        "weight": -0.13318809566299575
+      },
+      {
+        "feature": "cat__state_Tennessee <= 0.00",
+        "weight": 0.13286780805794562
+      },
+      {
+        "feature": "num__latitude > 0.48",
+        "weight": -0.12995786691792677
+      },
+      {
+        "feature": "cat__state_Moscow <= 0.00",
+        "weight": 0.12054996778414549
+      },
+      {
+        "feature": "cat__state_West Virginia <= 0.00",
+        "weight": -0.11912530764690253
+      },
+      {
+        "feature": "cat__state_Texas <= 0.00",
+        "weight": 0.10502864266642681
+      },
+      {
+        "feature": "cat__state_California <= 0.00",
+        "weight": 0.09321598374760909
+      },
+      {
+        "feature": "cat__state_Florida <= 0.00",
+        "weight": -0.09105326338804387
+      },
+      {
+        "feature": "cat__state_District of Columbia <= 0.00",
+        "weight": 0.09008231904280481
+      },
+      {
+        "feature": "cat__state_Bulacan <= 0.00",
+        "weight": 0.0825325867520513
+      },
+      {
+        "feature": "cat__state_Stann Creek District <= 0.00",
+        "weight": -0.08087865582743936
+      },
+      {
+        "feature": "cat__state_Illinois <= 0.00",
+        "weight": 0.07916600402267832
+      },
+      {
+        "feature": "cat__state_Nairobi County <= 0.00",
+        "weight": -0.07746374954043155
+      },
+      {
+        "feature": "num__longitude > -0.03",
+        "weight": -0.06830995670397805
+      },
+      {
+        "feature": "num__lat_lon_interaction > 0.08",
+        "weight": -0.06825962914649804
+      },
+      {
+        "feature": "cat__state_Delhi <= 0.00",
+        "weight": 0.05719044635867163
+      },
+      {
+        "feature": "cat__state_Ternopil Oblast <= 0.00",
+        "weight": 0.05284417917217323
+      },
+      {
+        "feature": "cat__state_England > 0.00",
+        "weight": -0.051595243584366346
+      },
+      {
+        "feature": "cat__state_Telangana <= 0.00",
+        "weight": -0.048186157465580616
+      },
+      {
+        "feature": "cat__state_Queensland <= 0.00",
+        "weight": 0.04488471624517094
+      },
+      {
+        "feature": "cat__state_Cyprus <= 0.00",
+        "weight": -0.04418522280978518
+      },
+      {
+        "feature": "cat__state_Louisiana <= 0.00",
+        "weight": 0.04300176545743626
+      },
+      {
+        "feature": "cat__state_Gujarat <= 0.00",
+        "weight": 0.04273298140932479
+      },
+      {
+        "feature": "cat__state_Wisconsin <= 0.00",
+        "weight": 0.03683712109283989
+      },
+      {
+        "feature": "cat__state_Michigan <= 0.00",
+        "weight": -0.03384064259097711
+      },
+      {
+        "feature": "cat__state_Subcarpathian Voivodeship <= 0.00",
+        "weight": 0.03320420486133052
+      },
+      {
+        "feature": "cat__state_nan <= 0.00",
+        "weight": 0.031928213083933336
+      },
+      {
+        "feature": "cat__state_Alabama <= 0.00",
+        "weight": 0.02863774370622861
+      },
+      {
+        "feature": "cat__state_New South Wales <= 0.00",
+        "weight": 0.0244929597670178
+      },
+      {
+        "feature": "cat__state_Hawaii <= 0.00",
+        "weight": 0.024092716838179498
+      },
+      {
+        "feature": "cat__state_Georgia <= 0.00",
+        "weight": 0.024049443608721698
+      },
+      {
+        "feature": "cat__state_Karaganda Region <= 0.00",
+        "weight": -0.020233677303343058
+      },
+      {
+        "feature": "cat__state_Missouri <= 0.00",
+        "weight": 0.01392139510128207
+      },
+      {
+        "feature": "cat__state_Saskatchewan <= 0.00",
+        "weight": 0.011374435157649021
+      },
+      {
+        "feature": "cat__state_Rio de Janeiro <= 0.00",
+        "weight": -0.004900009775741789
+      },
+      {
+        "feature": "cat__state_North Carolina <= 0.00",
+        "weight": -0.0029329296531063367
+      },
+      {
+        "feature": "cat__state_Minnesota <= 0.00",
+        "weight": 6.912374018806572e-05
+      },
+      {
+        "feature": "cat__state_Saint Petersburg <= 0.00",
+        "weight": 0.0
+      },
+      {
+        "feature": "cat__state_Dakar Region <= 0.00",
+        "weight": 0.0
+      },
+      {
+        "feature": "cat__state_Lower Saxony <= 0.00",
+        "weight": 0.0
+      },
+      {
+        "feature": "cat__state_Mombasa County <= 0.00",
+        "weight": 0.0
+      },
+      {
+        "feature": "cat__state_Tripoli <= 0.00",
+        "weight": 0.0
+      },
+      {
+        "feature": "cat__state_Koshi Province <= 0.00",
+        "weight": 0.0
+      },
+      {
+        "feature": "cat__state_Bagamati Province <= 0.00",
+        "weight": 0.0
+      },
+      {
+        "feature": "cat__state_Central Province <= 0.00",
+        "weight": 0.0
+      },
+      {
+        "feature": "cat__state_Bihar <= 0.00",
+        "weight": 0.0
+      },
+      {
+        "feature": "cat__state_Tel-Aviv District <= 0.00",
+        "weight": 0.0
+      }
+    ]
+  },
+  {
+    "index": 10,
+    "predicted_log_deposit": 26.399797439575195,
+    "explanation": [
+      {
+        "feature": "num__density_ratio > -0.05",
+        "weight": 7.43035466697514
+      },
+      {
+        "feature": "cat__state_Saint Petersburg <= 0.00",
+        "weight": 2.7945441493433383
+      },
+      {
+        "feature": "cat__state_Khyber Pakhtunkhwa <= 0.00",
+        "weight": -2.3125735317640403
+      },
+      {
+        "feature": "cat__state_Ternopil Oblast <= 0.00",
+        "weight": 2.0541104228917173
+      },
+      {
+        "feature": "cat__state_Gujarat <= 0.00",
+        "weight": 2.0447129419868046
+      },
+      {
+        "feature": "cat__state_Meru County <= 0.00",
+        "weight": -2.028349829519813
+      },
+      {
+        "feature": "cat__state_Par\u00e1 <= 0.00",
+        "weight": -1.8874725820560607
+      },
+      {
+        "feature": "cat__state_Mombasa County <= 0.00",
+        "weight": 1.7926851498661438
+      },
+      {
+        "feature": "cat__state_United States Virgin Islands <= 0.00",
+        "weight": 1.7111641123161812
+      },
+      {
+        "feature": "cat__state_Hong Kong <= 0.00",
+        "weight": 1.5971122873031895
+      },
+      {
+        "feature": "cat__state_Bavaria <= 0.00",
+        "weight": 1.4646214842807876
+      },
+      {
+        "feature": "cat__state_Nova Scotia <= 0.00",
+        "weight": -1.412089065238644
+      },
+      {
+        "feature": "cat__state_Delhi <= 0.00",
+        "weight": 1.4032128467470255
+      },
+      {
+        "feature": "cat__state_Auckland <= 0.00",
+        "weight": -1.3742010010089254
+      },
+      {
+        "feature": "cat__state_Western Region <= 0.00",
+        "weight": -1.3733641621596169
+      },
+      {
+        "feature": "cat__state_Ratak Chain <= 0.00",
+        "weight": 1.3650547373589956
+      },
+      {
+        "feature": "cat__state_Alberta <= 0.00",
+        "weight": 1.3090005940991136
+      },
+      {
+        "feature": "cat__state_Mexico City <= 0.00",
+        "weight": 1.2990924116360851
+      },
+      {
+        "feature": "cat__state_Nevada <= 0.00",
+        "weight": -1.2826864812483576
+      },
+      {
+        "feature": "cat__state_Panam\u00e1 Province <= 0.00",
+        "weight": -1.238214949907825
+      },
+      {
+        "feature": "cat__state_Tunis <= 0.00",
+        "weight": -1.1683601961573966
+      },
+      {
+        "feature": "cat__state_Lambayeque <= 0.00",
+        "weight": -1.1285025713861307
+      },
+      {
+        "feature": "cat__state_Shanghai <= 0.00",
+        "weight": 1.1263279972949973
+      },
+      {
+        "feature": "cat__state_Estuaire Province <= 0.00",
+        "weight": 1.1062232810309391
+      },
+      {
+        "feature": "cat__state_Central Equatoria <= 0.00",
+        "weight": 1.0557517602013424
+      },
+      {
+        "feature": "cat__state_Lviv Oblast <= 0.00",
+        "weight": 1.0557517602013415
+      },
+      {
+        "feature": "cat__state_Western Province <= 0.00",
+        "weight": -1.0340130991990288
+      },
+      {
+        "feature": "cat__state_Rhode Island <= 0.00",
+        "weight": -1.0270575170660874
+      },
+      {
+        "feature": "cat__state_Kinshasa <= 0.00",
+        "weight": -1.0145907563368433
+      },
+      {
+        "feature": "cat__state_Vermont <= 0.00",
+        "weight": 0.9811345896980369
+      },
+      {
+        "feature": "cat__state_Alaska <= 0.00",
+        "weight": 0.9750106702176705
+      },
+      {
+        "feature": "cat__state_Subcarpathian Voivodeship <= 0.00",
+        "weight": -0.9290282823623275
+      },
+      {
+        "feature": "cat__state_Bihar <= 0.00",
+        "weight": 0.9181994512360482
+      },
+      {
+        "feature": "cat__state_Saskatchewan <= 0.00",
+        "weight": 0.8834310495668185
+      },
+      {
+        "feature": "cat__state_Plateau State <= 0.00",
+        "weight": -0.879484815613544
+      },
+      {
+        "feature": "-0.49 < num__branch_density_10km <= 0.04",
+        "weight": -0.8792152723997737
+      },
+      {
+        "feature": "cat__state_Hawaii <= 0.00",
+        "weight": -0.8790874203995528
+      },
+      {
+        "feature": "cat__state_Koshi Province <= 0.00",
+        "weight": 0.8686916256903111
+      },
+      {
+        "feature": "cat__state_Delaware <= 0.00",
+        "weight": -0.8680074747945975
+      },
+      {
+        "feature": "cat__state_Dodoma Region <= 0.00",
+        "weight": -0.8314221776921584
+      },
+      {
+        "feature": "cat__state_Dhaka Division <= 0.00",
+        "weight": -0.8264116289231804
+      },
+      {
+        "feature": "cat__state_Tel-Aviv District <= 0.00",
+        "weight": -0.8258130170286337
+      },
+      {
+        "feature": "cat__state_Connecticut <= 0.00",
+        "weight": -0.8183781157688741
+      },
+      {
+        "feature": "cat__state_New Brunswick <= 0.00",
+        "weight": 0.7782346736163529
+      },
+      {
+        "feature": "cat__state_Al-Najaf Governorate <= 0.00",
+        "weight": -0.7676149543771734
+      },
+      {
+        "feature": "cat__state_Queensland <= 0.00",
+        "weight": 0.731313765935114
+      },
+      {
+        "feature": "cat__state_Colorado <= 0.00",
+        "weight": -0.7050431641645565
+      },
+      {
+        "feature": "cat__state_Victoria <= 0.00",
+        "weight": -0.6951301020203998
+      },
+      {
+        "feature": "cat__state_Northern Region <= 0.00",
+        "weight": -0.6770613645743724
+      },
+      {
+        "feature": "cat__state_Karnataka <= 0.00",
+        "weight": -0.6612609210300334
+      },
+      {
+        "feature": "cat__state_North Dakota <= 0.00",
+        "weight": -0.6466709238881453
+      },
+      {
+        "feature": "cat__state_Newfoundland and Labrador <= 0.00",
+        "weight": 0.6341579561019527
+      },
+      {
+        "feature": "cat__state_Mwanza Region <= 0.00",
+        "weight": -0.6250876105713734
+      },
+      {
+        "feature": "cat__state_Telangana <= 0.00",
+        "weight": 0.6168488256048796
+      },
+      {
+        "feature": "cat__state_Pridnestrovie <= 0.00",
+        "weight": -0.6141224721546086
+      },
+      {
+        "feature": "cat__state_Capital District <= 0.00",
+        "weight": -0.6125425453083204
+      },
+      {
+        "feature": "cat__state_Moscow <= 0.00",
+        "weight": -0.6046036189213759
+      },
+      {
+        "feature": "cat__state_New South Wales <= 0.00",
+        "weight": -0.5738275558832017
+      },
+      {
+        "feature": "cat__state_Maine <= 0.00",
+        "weight": 0.5661084592979075
+      },
+      {
+        "feature": "cat__state_Tamil Nadu <= 0.00",
+        "weight": -0.5519628481746024
+      },
+      {
+        "feature": "cat__state_Chelyabinsk Oblast <= 0.00",
+        "weight": -0.5463807296055381
+      },
+      {
+        "feature": "cat__state_Bulacan <= 0.00",
+        "weight": -0.52052016594157
+      },
+      {
+        "feature": "cat__state_Massachusetts <= 0.00",
+        "weight": 0.5201494301481161
+      },
+      {
+        "feature": "cat__state_Utah <= 0.00",
+        "weight": -0.5145230657988007
+      },
+      {
+        "feature": "cat__state_Bagamati Province <= 0.00",
+        "weight": -0.49221117498171824
+      },
+      {
+        "feature": "cat__state_Miranda State <= 0.00",
+        "weight": 0.4883101789914171
+      },
+      {
+        "feature": "cat__state_British Columbia <= 0.00",
+        "weight": 0.4750395929966003
+      },
+      {
+        "feature": "cat__state_Abu Dhabi Emirate <= 0.00",
+        "weight": 0.46792393234481694
+      },
+      {
+        "feature": "cat__state_Cayo District <= 0.00",
+        "weight": 0.4617799401825869
+      },
+      {
+        "feature": "cat__state_Maryland <= 0.00",
+        "weight": 0.4605488151802013
+      },
+      {
+        "feature": "cat__state_Pennsylvania <= 0.00",
+        "weight": 0.3869770763432876
+      },
+      {
+        "feature": "cat__state_Makkah Region <= 0.00",
+        "weight": 0.38045109141455064
+      },
+      {
+        "feature": "cat__state_Ontario <= 0.00",
+        "weight": 0.37704687727270464
+      },
+      {
+        "feature": "cat__state_Michigan <= 0.00",
+        "weight": -0.37536112982500497
+      },
+      {
+        "feature": "cat__state_Alabama <= 0.00",
+        "weight": -0.37065372189575857
+      },
+      {
+        "feature": "cat__state_Prince Edward Island <= 0.00",
+        "weight": -0.34706550082764315
+      },
+      {
+        "feature": "cat__state_Kentucky <= 0.00",
+        "weight": -0.3397050263840777
+      },
+      {
+        "feature": "cat__state_Oklahoma <= 0.00",
+        "weight": 0.32334722030904084
+      },
+      {
+        "feature": "cat__state_Wyoming <= 0.00",
+        "weight": 0.3215484635412071
+      },
+      {
+        "feature": "cat__state_Oyo State <= 0.00",
+        "weight": 0.31385205336110733
+      },
+      {
+        "feature": "cat__state_Montana <= 0.00",
+        "weight": -0.30993627760232717
+      },
+      {
+        "feature": "cat__state_Idaho <= 0.00",
+        "weight": -0.30906257259235215
+      },
+      {
+        "feature": "cat__state_Hubei <= 0.00",
+        "weight": -0.2982697473071091
+      },
+      {
+        "feature": "cat__state_Northern Ireland <= 0.00",
+        "weight": -0.2969356116662278
+      },
+      {
+        "feature": "cat__state_Washington <= 0.00",
+        "weight": 0.28185078131909264
+      },
+      {
+        "feature": "cat__state_Aswan <= 0.00",
+        "weight": -0.270110753527122
+      },
+      {
+        "feature": "cat__state_Wales <= 0.00",
+        "weight": 0.2629100525594712
+      },
+      {
+        "feature": "cat__state_Itap\u00faa <= 0.00",
+        "weight": -0.25979976601460636
+      },
+      {
+        "feature": "cat__state_Oregon <= 0.00",
+        "weight": -0.25495451661387747
+      },
+      {
+        "feature": "cat__state_Arkansas <= 0.00",
+        "weight": -0.24491199581561304
+      },
+      {
+        "feature": "cat__state_Stann Creek District <= 0.00",
+        "weight": -0.23962266546832656
+      },
+      {
+        "feature": "cat__state_North Carolina <= 0.00",
+        "weight": -0.238448813561176
+      },
+      {
+        "feature": "cat__state_Mississippi <= 0.00",
+        "weight": -0.20968308434265584
+      },
+      {
+        "feature": "cat__state_Wisconsin <= 0.00",
+        "weight": -0.20741614493972405
+      },
+      {
+        "feature": "cat__state_Virginia <= 0.00",
+        "weight": 0.20597386506354112
+      },
+      {
+        "feature": "cat__state_Illinois <= 0.00",
+        "weight": 0.20497223011996255
+      },
+      {
+        "feature": "cat__state_Lower Saxony <= 0.00",
+        "weight": 0.2016146327765261
+      },
+      {
+        "feature": "num__log_nearest_distance <= -1.01",
+        "weight": 0.20124089235057552
+      },
+      {
+        "feature": "cat__state_California <= 0.00",
+        "weight": -0.20019117363373418
+      },
+      {
+        "feature": "cat__state_South Australia <= 0.00",
+        "weight": -0.1899734777408698
+      },
+      {
+        "feature": "cat__state_New Hampshire <= 0.00",
+        "weight": -0.18598346906210672
+      },
+      {
+        "feature": "cat__state_New Jersey <= 0.00",
+        "weight": -0.16268503631511558
+      },
+      {
+        "feature": "cat__state_Iowa <= 0.00",
+        "weight": -0.16178484803120746
+      },
+      {
+        "feature": "cat__state_Arizona <= 0.00",
+        "weight": -0.15979557862054108
+      },
+      {
+        "feature": "cat__state_Central Region <= 0.00",
+        "weight": 0.15973115908588706
+      },
+      {
+        "feature": "cat__state_South Carolina <= 0.00",
+        "weight": -0.15644735969995383
+      },
+      {
+        "feature": "cat__state_Ohio <= 0.00",
+        "weight": 0.1563052054895369
+      },
+      {
+        "feature": "cat__state_Karaganda Region <= 0.00",
+        "weight": -0.15223478197654988
+      },
+      {
+        "feature": "cat__state_District of Columbia <= 0.00",
+        "weight": 0.1425257564813214
+      },
+      {
+        "feature": "cat__state_Minnesota <= 0.00",
+        "weight": -0.14125744710949845
+      },
+      {
+        "feature": "cat__state_Nairobi County <= 0.00",
+        "weight": -0.13268318264741463
+      },
+      {
+        "feature": "cat__state_England <= 0.00",
+        "weight": 0.11934682979698988
+      },
+      {
+        "feature": "cat__state_Kerala <= 0.00",
+        "weight": -0.11350471967424428
+      },
+      {
+        "feature": "cat__state_Tripoli <= 0.00",
+        "weight": -0.11038252925275464
+      },
+      {
+        "feature": "cat__state_West Virginia <= 0.00",
+        "weight": -0.10253071968695279
+      },
+      {
+        "feature": "cat__state_Louisiana <= 0.00",
+        "weight": -0.09470409385214577
+      },
+      {
+        "feature": "cat__state_Georgia <= 0.00",
+        "weight": -0.08978004472488667
+      },
+      {
+        "feature": "cat__state_Lumbini Province <= 0.00",
+        "weight": -0.0858177958933253
+      },
+      {
+        "feature": "cat__state_Dakar Region <= 0.00",
+        "weight": -0.08459318821836768
+      },
+      {
+        "feature": "cat__state_Greater Accra Region <= 0.00",
+        "weight": -0.08340245845719237
+      },
+      {
+        "feature": "cat__state_Nueva Ecija <= 0.00",
+        "weight": -0.08321610097234557
+      },
+      {
+        "feature": "cat__state_Puerto Rico <= 0.00",
+        "weight": 0.08022867377693392
+      },
+      {
+        "feature": "cat__state_Indiana <= 0.00",
+        "weight": 0.07980263555856348
+      },
+      {
+        "feature": "cat__state_Paramaribo <= 0.00",
+        "weight": -0.0797406823052893
+      },
+      {
+        "feature": "cat__state_New Mexico <= 0.00",
+        "weight": -0.07724271223753759
+      },
+      {
+        "feature": "cat__state_Kuala Lumpur <= 0.00",
+        "weight": 0.06788114373080126
+      },
+      {
+        "feature": "cat__state_Texas <= 0.00",
+        "weight": 0.06505579194854416
+      },
+      {
+        "feature": "cat__state_Andhra Pradesh <= 0.00",
+        "weight": -0.059851982373876976
+      },
+      {
+        "feature": "cat__state_Nebraska <= 0.00",
+        "weight": -0.05053530178985229
+      },
+      {
+        "feature": "cat__state_Masovian Voivodeship <= 0.00",
+        "weight": 0.04450440749129687
+      },
+      {
+        "feature": "cat__state_South Dakota <= 0.00",
+        "weight": 0.04233194478807745
+      },
+      {
+        "feature": "cat__state_Cyprus <= 0.00",
+        "weight": 0.04098506116976782
+      },
+      {
+        "feature": "cat__state_Kogi State <= 0.00",
+        "weight": 0.03756012050768711
+      },
+      {
+        "feature": "num__longitude > -0.03",
+        "weight": 0.036431457003700055
+      },
+      {
+        "feature": "-0.12 < num__lat_lon_interaction <= 0.08",
+        "weight": 0.025014841636150635
+      },
+      {
+        "feature": "cat__state_nan <= 0.00",
+        "weight": 0.020566704914401282
+      },
+      {
+        "feature": "cat__state_Florida <= 0.00",
+        "weight": -0.0185928881414568
+      },
+      {
+        "feature": "cat__state_New York > 0.00",
+        "weight": 0.016687863769119324
+      },
+      {
+        "feature": "cat__state_Missouri <= 0.00",
+        "weight": -0.015362976598593325
+      },
+      {
+        "feature": "num__latitude > 0.48",
+        "weight": -0.014817663390613675
+      },
+      {
+        "feature": "cat__state_Tennessee <= 0.00",
+        "weight": 0.010868810947774643
+      },
+      {
+        "feature": "cat__state_Scotland <= 0.00",
+        "weight": 0.0022316819236723085
+      },
+      {
+        "feature": "cat__state_Kansas <= 0.00",
+        "weight": 0.0010968489589393048
+      },
+      {
+        "feature": "cat__state_KwaZulu-Natal <= 0.00",
+        "weight": 0.0
+      },
+      {
+        "feature": "cat__state_Northern Province <= 0.00",
+        "weight": 0.0
+      },
+      {
+        "feature": "cat__state_Shandong <= 0.00",
+        "weight": 0.0
+      },
+      {
+        "feature": "cat__state_Central Province <= 0.00",
+        "weight": 0.0
+      },
+      {
+        "feature": "cat__state_Rio de Janeiro <= 0.00",
+        "weight": 0.0
+      },
+      {
+        "feature": "cat__state_Blantyre <= 0.00",
+        "weight": 0.0
+      },
+      {
+        "feature": "cat__state_Limburg <= 0.00",
+        "weight": 0.0
+      },
+      {
+        "feature": "cat__state_Prague <= 0.00",
+        "weight": 0.0
+      },
+      {
+        "feature": "cat__state_Medina Province <= 0.00",
+        "weight": 0.0
+      },
+      {
+        "feature": "cat__state_Khuzestan Province <= 0.00",
+        "weight": 0.0
+      },
+      {
+        "feature": "cat__state_Zomba <= 0.00",
+        "weight": 0.0
+      }
+    ]
+  }
+]

@@ -1,0 +1,77 @@
+{
+  "total_branches": 2850,
+  "anomaly_count": 86,
+  "anomaly_percentage": 3.02,
+  "top_anomalies": [
+    {
+      "bank_name": "Citibank",
+      "latitude": 0.421434,
+      "longitude": 9.4290632,
+      "total_deposits": 1361654000000.0,
+      "anomaly_score": -0.7465556494173636
+    },
+    {
+      "bank_name": "U.S. Bank",
+      "latitude": 47.8162218,
+      "longitude": -110.6692107,
+      "total_deposits": 523102129000.0,
+      "anomaly_score": -0.7002517810499655
+    },
+    {
+      "bank_name": "Bank of America",
+      "latitude": 51.5162146,
+      "longitude": -0.1000942,
+      "total_deposits": 2071624000000.0,
+      "anomaly_score": -0.6999975549477765
+    },
+    {
+      "bank_name": "BMO Bank",
+      "latitude": 51.1304872,
+      "longitude": -114.0093721,
+      "total_deposits": 202571778000.0,
+      "anomaly_score": -0.699668874704874
+    },
+    {
+      "bank_name": "Bank of China",
+      "latitude": 22.4135377,
+      "longitude": 113.9828786,
+      "total_deposits": 18505243000.0,
+      "anomaly_score": -0.6927851101436237
+    },
+    {
+      "bank_name": "Commonwealth Business Bank",
+      "latitude": -30.5143075,
+      "longitude": 151.6678468,
+      "total_deposits": 1477925000.0,
+      "anomaly_score": -0.678266431772397
+    },
+    {
+      "bank_name": "SoFi Bank",
+      "latitude": 30.5438964,
+      "longitude": 49.1699656,
+      "total_deposits": 27382942000.0,
+      "anomaly_score": -0.6776036708883584
+    },
+    {
+      "bank_name": "Bank of Guam",
+      "latitude": 7.0882971,
+      "longitude": 171.3789741,
+      "total_deposits": 2474938000.0,
+      "anomaly_score": -0.6709727353877841
+    },
+    {
+      "bank_name": "Franklin Bank",
+      "latitude": -38.7554728,
+      "longitude": 146.4031645,
+      "total_deposits": 297233000.0,
+      "anomaly_score": -0.6694784338489627
+    },
+    {
+      "bank_name": "Bank of Vici",
+      "latitude": -27.4787846,
+      "longitude": 153.0219214,
+      "total_deposits": 31605000.0,
+      "anomaly_score": -0.667798657223488
+    }
+  ]
+}
